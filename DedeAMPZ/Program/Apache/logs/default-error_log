@@ -1,0 +1,141 @@
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_mysql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mysql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_mysql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mysql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Wed Sep 03 13:38:44 2008] [error] [client 127.0.0.1] File does not exist: D:/DedeAMPZ/WebRoot/Default/favicon.ico
+[Wed Sep 03 15:53:17 2008] [error] [client 127.0.0.1] File does not exist: D:/DedeAMPZ/WebRoot/Default/img, referer: http://localhost/install/index.php
+[Wed Sep 03 16:04:42 2008] [error] [client 127.0.0.1] File does not exist: D:/DedeAMPZ/WebRoot/Default/img, referer: http://localhost/install/index.php
+[Wed Sep 03 16:45:10 2008] [error] [client 127.0.0.1] File does not exist: D:/DedeAMPZ/WebRoot/Default/favicon.ico
+[Wed Sep 03 16:45:23 2008] [error] [client 127.0.0.1] File does not exist: D:/DedeAMPZ/WebRoot/Default/img, referer: http://localhost/install/index.php
+[Wed Sep 03 16:46:46 2008] [error] [client 127.0.0.1] PHP Notice:  Undefined variable: k in D:\\DedeAMPZ\\WebRoot\\Default\\dede\\templets\\sys_group.htm on line 53, referer: http://localhost/dede/index_menu.php?openitem=10
+[Wed Sep 03 16:46:50 2008] [error] [client 127.0.0.1] File does not exist: D:/DedeAMPZ/WebRoot/Default/dede/css_menu.css, referer: http://localhost/dede/catalog_menu.php
+[Wed Sep 03 16:46:50 2008] [error] [client 127.0.0.1] File does not exist: D:/DedeAMPZ/WebRoot/Default/dede/css_menu.css, referer: http://localhost/dede/catalog_menu.php#
+[Wed Sep 03 16:47:04 2008] [error] [client 127.0.0.1] File does not exist: D:/DedeAMPZ/WebRoot/Default/html/fdsafdsa/images, referer: http://localhost/html/fdsafdsa/fsdafdsa/20080903/1.html
+[Thu Sep 04 09:36:20 2008] [error] [client 127.0.0.1] File does not exist: D:/DedeAMPZ/WebRoot/Default/img, referer: http://localhost/install/index.php
+[Thu Sep 04 09:45:14 2008] [error] [client 127.0.0.1] File does not exist: D:/DedeAMPZ/WebRoot/Default/html/fdsafdsa/images, referer: http://localhost/html/fdsafdsa/fsdafdsa/20080904/1.html?1220492714
+[Thu Sep 04 09:47:45 2008] [error] [client 127.0.0.1] File does not exist: D:/DedeAMPZ/WebRoot/Default/html/dsafdsafdsa/images, referer: http://localhost/html/dsafdsafdsa/fdsafdsafd/20080904/3.html
+[Thu Sep 04 09:47:58 2008] [error] [client 127.0.0.1] File does not exist: D:/DedeAMPZ/WebRoot/Default/html/dsafdsafdsa/images, referer: http://localhost/html/dsafdsafdsa/fdsafdsafd/20080904/4.html
+[Thu Sep 04 09:48:13 2008] [error] [client 127.0.0.1] File does not exist: D:/DedeAMPZ/WebRoot/Default/html/dsafdsafdsa/images, referer: http://localhost/html/dsafdsafdsa/fdsafdsafd/20080904/5.html
+[Thu Sep 04 09:48:51 2008] [error] [client 127.0.0.1] File does not exist: D:/DedeAMPZ/WebRoot/Default/html/dsafdsafdsa/images, referer: http://localhost/html/dsafdsafdsa/fdsafdsa/20080904/6.html
+[Thu Sep 04 09:53:30 2008] [error] [client 127.0.0.1] File does not exist: D:/DedeAMPZ/WebRoot/Default/html/dsafdsafdsa/images, referer: http://www.dede6.com/html/dsafdsafdsa/fdsafdsafd/20080904/7.html?1220493210
+[Thu Sep 04 09:56:12 2008] [error] [client 127.0.0.1] File does not exist: D:/DedeAMPZ/WebRoot/Default/html/dsafdsafdsa/images, referer: http://www.dede6.com/html/dsafdsafdsa/fdsafdsa/20080904/8.html
+[Thu Sep 04 10:03:52 2008] [error] [client 127.0.0.1] File does not exist: D:/DedeAMPZ/WebRoot/Default/html/dsafdsafdsa/images, referer: http://localhost/html/dsafdsafdsa/fdsafdsafd/20080904/10.html
+[Thu Sep 04 10:05:11 2008] [error] [client 127.0.0.1] File does not exist: D:/DedeAMPZ/WebRoot/Default/img, referer: http://localhost/install/index.php
+[Thu Sep 04 10:06:52 2008] [error] [client 127.0.0.1] File does not exist: D:/DedeAMPZ/WebRoot/Default/html/rrr/images, referer: http://localhost/html/rrr/bbb/20080904/1.html
+[Thu Sep 04 10:07:02 2008] [error] [client 127.0.0.1] File does not exist: D:/DedeAMPZ/WebRoot/Default/html/rrr/images, referer: http://localhost/html/rrr/bbb/20080904/1.html
+[Thu Sep 04 10:08:20 2008] [error] [client 127.0.0.1] File does not exist: D:/DedeAMPZ/WebRoot/Default/html/rrr/images, referer: http://localhost/html/rrr/ccc/20080904/2.html?1220494100
+[Thu Sep 04 10:08:44 2008] [error] [client 127.0.0.1] File does not exist: D:/DedeAMPZ/WebRoot/Default/html/rrr/images, referer: http://localhost/html/rrr/ccc/20080904/3.html
+[Thu Sep 04 10:09:49 2008] [error] [client 127.0.0.1] File does not exist: D:/DedeAMPZ/WebRoot/Default/html/rrr/images, referer: http://localhost/html/rrr/ccc/20080904/4.html
+[Thu Sep 04 10:10:30 2008] [error] [client 127.0.0.1] File does not exist: D:/DedeAMPZ/WebRoot/Default/html/rrr/images, referer: http://localhost/html/rrr/ccc/20080904/5.html
+[Thu Sep 04 10:10:38 2008] [error] [client 127.0.0.1] File does not exist: D:/DedeAMPZ/WebRoot/Default/html/rrr/images, referer: http://localhost/html/rrr/ccc/20080904/5.html?1220494237
+[Thu Sep 04 10:13:37 2008] [error] [client 127.0.0.1] File does not exist: D:/DedeAMPZ/WebRoot/Default/html/rrr/images, referer: http://localhost/html/rrr/ccc/20080904/5.html?1220494417
+[Thu Sep 04 13:34:55 2008] [error] [client 127.0.0.1] File does not exist: D:/DedeAMPZ/Program/WebRoot, referer: http://localhost/dede/index_menu.php
+[Thu Sep 04 13:35:08 2008] [error] [client 127.0.0.1] File does not exist: D:/DedeAMPZ/Program/WebRoot, referer: http://localhost/dede/index_menu.php
+[Thu Sep 04 13:35:10 2008] [error] [client 127.0.0.1] File does not exist: D:/DedeAMPZ/Program/WebRoot, referer: http://localhost/dede/index_menu.php
+[Thu Sep 04 13:35:11 2008] [error] [client 127.0.0.1] File does not exist: D:/DedeAMPZ/Program/WebRoot, referer: http://localhost/dede/index_menu.php
+[Thu Sep 04 13:35:12 2008] [error] [client 127.0.0.1] File does not exist: D:/DedeAMPZ/Program/WebRoot, referer: http://localhost/dede/index_menu.php
+[Thu Sep 04 13:35:13 2008] [error] [client 127.0.0.1] File does not exist: D:/DedeAMPZ/Program/WebRoot, referer: http://localhost/dede/index_menu.php
+[Thu Oct 15 14:20:59 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/favicon.ico
+[Thu Oct 15 14:20:59 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/favicon.ico
+[Thu Oct 15 14:56:03 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/a/HelloWorld/hello/2015/1015/shareto.css, referer: http://localhost/a/HelloWorld/hello/2015/1015/1.html
+[Thu Oct 15 15:35:31 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/a/HelloWorld/hello/2015/1015/shareto.css, referer: http://localhost/a/HelloWorld/hello/2015/1015/1.html?1444894510
+[Thu Oct 15 16:48:27 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/a/HelloWorld/hello/2015/1015/shareto.css, referer: http://localhost/a/HelloWorld/hello/2015/1015/1.html
+[Wed Oct 21 15:47:37 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/a/LOLshipin/gaoxiaoshipin/2015/1021/shareto.css, referer: http://localhost/a/LOLshipin/gaoxiaoshipin/2015/1021/3.html
+[Wed Oct 21 15:47:44 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/4564+5, referer: http://localhost/
+[Wed Oct 21 15:47:44 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/4564+5, referer: http://localhost/
+[Wed Oct 21 15:47:44 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/4564+5, referer: http://localhost/
+[Wed Oct 21 15:47:51 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/a/HelloWorld/2015/1021/shareto.css, referer: http://localhost/a/HelloWorld/2015/1021/2.html
+[Wed Oct 21 15:53:34 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/dede/4564+5, referer: http://localhost/dede/article_edit.php?aid=2
+[Wed Oct 21 15:53:52 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/dede/4564+5, referer: http://localhost/dede/article_edit.php?aid=2
+[Wed Oct 21 15:54:47 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/dede/4564+5, referer: http://localhost/dede/article_edit.php?aid=2
+[Wed Oct 21 15:55:40 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/a/HelloWorld/hello/2015/1015/shareto.css, referer: http://localhost/a/HelloWorld/hello/2015/1015/1.html
+[Wed Oct 21 15:56:53 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/dede/4564+5, referer: http://localhost/dede/article_edit.php?aid=2
+[Wed Oct 21 15:59:43 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/dede/4564+5, referer: http://localhost/dede/article_edit.php?aid=2
+[Wed Oct 21 15:59:57 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/a/HelloWorld/2015/1021/shareto.css, referer: http://localhost/a/HelloWorld/2015/1021/2.html
+[Wed Oct 21 16:00:45 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/dede/4564+5, referer: http://localhost/dede/article_edit.php?aid=2
+[Wed Oct 21 16:00:50 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/dede/4564+5, referer: http://localhost/dede/article_edit.php?aid=2
+[Wed Oct 21 16:01:31 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/4564+5, referer: http://localhost/
+[Wed Oct 21 16:01:31 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/4564+5, referer: http://localhost/
+[Wed Oct 21 16:01:32 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/4564+5, referer: http://localhost/
+[Wed Oct 21 16:01:40 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/a/HelloWorld/2015/1021/shareto.css, referer: http://localhost/a/HelloWorld/2015/1021/2.html
+[Wed Oct 21 16:03:29 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/a/HelloWorld/2015/1021/shareto.css, referer: http://localhost/a/HelloWorld/2015/1021/2.html
+[Wed Oct 21 16:03:34 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/4564+5, referer: http://localhost/
+[Wed Oct 21 16:03:34 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/4564+5, referer: http://localhost/
+[Wed Oct 21 16:03:34 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/4564+5, referer: http://localhost/
+[Wed Oct 21 16:03:35 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/4564+5, referer: http://localhost/
+[Wed Oct 21 16:03:35 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/4564+5, referer: http://localhost/
+[Wed Oct 21 16:03:35 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/4564+5, referer: http://localhost/
+[Wed Oct 21 16:05:02 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/4564+5, referer: http://localhost/
+[Wed Oct 21 16:05:03 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/4564+5, referer: http://localhost/
+[Wed Oct 21 16:05:03 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/4564+5, referer: http://localhost/
+[Wed Oct 21 16:05:21 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/a/LOLshipin/gaoxiaoshipin/2015/1021/shareto.css, referer: http://localhost/a/LOLshipin/gaoxiaoshipin/2015/1021/3.html
+[Wed Oct 21 16:14:06 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/a/xinlingjitang/dushishenghuo/2015/1021/shareto.css, referer: http://localhost/a/xinlingjitang/dushishenghuo/2015/1021/4.html
+[Wed Oct 21 16:14:33 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/dede/4564+5, referer: http://localhost/dede/article_edit.php?aid=2
+[Wed Oct 21 16:15:21 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/a/xinlingjitang/dushishenghuo/2015/1021/shareto.css, referer: http://localhost/a/xinlingjitang/dushishenghuo/2015/1021/4.html
+[Wed Oct 21 16:15:46 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/a/xinlingjitang/dushishenghuo/2015/1021/shareto.css, referer: http://localhost/a/xinlingjitang/dushishenghuo/2015/1021/4.html
+[Wed Oct 21 16:16:14 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/dede/4564+5, referer: http://localhost/dede/article_edit.php?aid=2
+[Wed Oct 21 16:16:23 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/dede/4564+5, referer: http://localhost/dede/article_edit.php?aid=2
+[Wed Oct 21 16:16:42 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/a/xinlingjitang/dushishenghuo/2015/1021/shareto.css, referer: http://localhost/a/xinlingjitang/dushishenghuo/2015/1021/4.html
+[Wed Oct 21 16:28:26 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/a/xinlingjitang/dushishenghuo/2015/1021/shareto.css, referer: http://localhost/a/xinlingjitang/dushishenghuo/2015/1021/4.html
+[Wed Oct 21 16:48:48 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/templets/images, referer: http://localhost/templets/default/advancedsearch.htm
+[Wed Oct 21 16:57:28 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/4564+5, referer: http://localhost/
+[Wed Oct 21 16:57:28 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/4564+5, referer: http://localhost/
+[Wed Oct 21 16:57:28 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/4564+5, referer: http://localhost/
+[Wed Oct 21 16:57:42 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/a/xinlingjitang/dushishenghuo/2015/1021/shareto.css, referer: http://localhost/a/xinlingjitang/dushishenghuo/2015/1021/4.html
+[Wed Oct 21 17:08:39 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/a/xinlingjitang/dushishenghuo/2015/1021/shareto.css, referer: http://localhost/a/xinlingjitang/dushishenghuo/2015/1021/4.html?1445418518
+[Wed Oct 21 17:08:58 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/a/HelloWorld/4564+5, referer: http://localhost/a/HelloWorld/
+[Wed Oct 21 17:08:58 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/a/HelloWorld/4564+5, referer: http://localhost/a/HelloWorld/
+[Wed Oct 21 17:08:58 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/a/HelloWorld/4564+5, referer: http://localhost/a/HelloWorld/
+[Wed Oct 21 17:09:44 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/a/HelloWorld/4564+5, referer: http://localhost/a/HelloWorld/
+[Wed Oct 21 17:09:44 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/a/HelloWorld/4564+5, referer: http://localhost/a/HelloWorld/
+[Wed Oct 21 17:09:44 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/a/HelloWorld/4564+5, referer: http://localhost/a/HelloWorld/
+[Wed Oct 21 17:09:51 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/a/HelloWorld/4564+5, referer: http://localhost/a/HelloWorld/
+[Wed Oct 21 17:09:51 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/a/HelloWorld/4564+5, referer: http://localhost/a/HelloWorld/
+[Wed Oct 21 17:09:51 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/a/HelloWorld/4564+5, referer: http://localhost/a/HelloWorld/
+[Wed Oct 21 17:10:05 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/a/HelloWorld/4564+5, referer: http://localhost/a/HelloWorld/
+[Wed Oct 21 17:10:05 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/a/HelloWorld/4564+5, referer: http://localhost/a/HelloWorld/
+[Wed Oct 21 17:10:05 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/a/HelloWorld/4564+5, referer: http://localhost/a/HelloWorld/
+[Wed Oct 21 17:14:46 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/a/xinlingjitang/dushishenghuo/2015/1021/shareto.css, referer: http://localhost/a/xinlingjitang/dushishenghuo/2015/1021/4.html?1445418885
+[Wed Oct 21 17:15:02 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/4564+5, referer: http://localhost/
+[Wed Oct 21 17:15:02 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/4564+5, referer: http://localhost/
+[Wed Oct 21 17:15:03 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/4564+5, referer: http://localhost/
+[Wed Oct 21 17:19:20 2015] [error] [client 127.0.0.1] (20024)The given path misformatted or contained invalid characters: Cannot map GET /templets/default/%7Bdede:global.cfg_templets_skin/%7D/style/dedecms.css HTTP/1.1 to file, referer: http://localhost/templets/default/article_article.htm
+[Wed Oct 21 17:19:20 2015] [error] [client 127.0.0.1] (20024)The given path misformatted or contained invalid characters: Cannot map GET /templets/default/%7Bdede:global.cfg_cmsurl/%7D/include/dedeajax2.js HTTP/1.1 to file, referer: http://localhost/templets/default/article_article.htm
+[Wed Oct 21 17:19:20 2015] [error] [client 127.0.0.1] (20024)The given path misformatted or contained invalid characters: Cannot map GET /templets/default/%7Bdede:field%20name='phpurl'/%7D/count.php?view=yes&aid={dede:field%20name=%27id%27/}&mid={dede:field%20name=%27mid%27/} HTTP/1.1 to file, referer: http://localhost/templets/default/article_article.htm
+[Wed Oct 21 17:19:20 2015] [error] [client 127.0.0.1] (20024)The given path misformatted or contained invalid characters: Cannot map GET /templets/default/[field:face/] HTTP/1.1 to file, referer: http://localhost/templets/default/article_article.htm
+[Wed Oct 21 17:19:20 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/templets/default/shareto.css, referer: http://localhost/templets/default/article_article.htm
+[Wed Oct 21 17:19:20 2015] [error] [client 127.0.0.1] (20024)The given path misformatted or contained invalid characters: Cannot map GET /templets/default/[field:face/] HTTP/1.1 to file, referer: http://localhost/templets/default/article_article.htm
+[Wed Oct 21 17:19:20 2015] [error] [client 127.0.0.1] (20024)The given path misformatted or contained invalid characters: Cannot map GET /templets/default/[field:face/] HTTP/1.1 to file, referer: http://localhost/templets/default/article_article.htm
+[Thu Oct 22 10:46:52 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/a/HelloWorld/2015/1021/shareto.css, referer: http://localhost/a/HelloWorld/2015/1021/2.html?1445482009
+[Thu Oct 22 10:46:53 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/a/HelloWorld/4564+5, referer: http://localhost/a/HelloWorld/
+[Thu Oct 22 10:46:54 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/a/HelloWorld/4564+5, referer: http://localhost/a/HelloWorld/
+[Thu Oct 22 10:46:54 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/a/HelloWorld/4564+5, referer: http://localhost/a/HelloWorld/
+[Thu Oct 22 10:46:58 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/4564+5, referer: http://localhost/
+[Thu Oct 22 10:46:58 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/4564+5, referer: http://localhost/
+[Thu Oct 22 10:46:59 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/4564+5, referer: http://localhost/
+[Thu Oct 22 10:47:23 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/4564+5, referer: http://localhost/
+[Thu Oct 22 10:47:23 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/4564+5, referer: http://localhost/
+[Thu Oct 22 10:47:24 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/4564+5, referer: http://localhost/
+[Thu Oct 22 10:54:57 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/4564+5, referer: http://localhost/
+[Thu Oct 22 10:54:57 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/4564+5, referer: http://localhost/
+[Thu Oct 22 10:54:57 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/4564+5, referer: http://localhost/
+[Thu Oct 22 10:55:49 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/4564+5, referer: http://localhost/
+[Thu Oct 22 10:55:49 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/4564+5, referer: http://localhost/
+[Thu Oct 22 10:55:50 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/4564+5, referer: http://localhost/
+[Thu Oct 22 11:01:00 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/4564+5, referer: http://localhost/
+[Thu Oct 22 11:01:00 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/4564+5, referer: http://localhost/
+[Thu Oct 22 11:01:00 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/4564+5, referer: http://localhost/
+[Thu Oct 22 11:12:32 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/4564+5, referer: http://localhost/
+[Thu Oct 22 11:12:32 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/4564+5, referer: http://localhost/
+[Thu Oct 22 11:12:32 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/4564+5, referer: http://localhost/
+[Thu Oct 22 11:12:38 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/4564+5, referer: http://localhost/
+[Thu Oct 22 11:12:38 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/4564+5, referer: http://localhost/
+[Thu Oct 22 11:12:39 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/4564+5, referer: http://localhost/
+[Thu Oct 22 11:12:43 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/4564+5, referer: http://localhost/
+[Thu Oct 22 11:12:43 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/4564+5, referer: http://localhost/
+[Thu Oct 22 11:12:44 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/4564+5, referer: http://localhost/
+[Thu Oct 22 11:13:51 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/4564+5, referer: http://localhost/
+[Thu Oct 22 11:13:51 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/4564+5, referer: http://localhost/
+[Thu Oct 22 11:13:51 2015] [error] [client 127.0.0.1] File does not exist: F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/Default/4564+5, referer: http://localhost/

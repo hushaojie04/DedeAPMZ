@@ -1,0 +1,62 @@
+InnoDB: The first specified data file .\ibdata1 did not exist:
+InnoDB: a new database to be created!
+151015 14:20:37  InnoDB: Setting file .\ibdata1 size to 10 MB
+InnoDB: Database physically writes the file full: wait...
+151015 14:20:37  InnoDB: Log file .\ib_logfile0 did not exist: new to be created
+InnoDB: Setting log file .\ib_logfile0 size to 10 MB
+InnoDB: Database physically writes the file full: wait...
+151015 14:20:37  InnoDB: Log file .\ib_logfile1 did not exist: new to be created
+InnoDB: Setting log file .\ib_logfile1 size to 10 MB
+InnoDB: Database physically writes the file full: wait...
+InnoDB: Doublewrite buffer not found: creating new
+InnoDB: Doublewrite buffer created
+InnoDB: Creating foreign key constraint system tables
+InnoDB: Foreign key constraint system tables created
+151015 14:20:37  InnoDB: Started; log sequence number 0 0
+151015 14:20:37 [Note] MySql: ready for connections.
+Version: '5.0.51a-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+151015 17:22:32 [Note] MySql: Normal shutdown
+
+151015 17:22:32  InnoDB: Starting shutdown...
+151015 17:22:34  InnoDB: Shutdown completed; log sequence number 0 43655
+151015 17:22:34 [Note] MySql: Shutdown complete
+
+151020  9:19:34  InnoDB: Started; log sequence number 0 43655
+151020  9:19:35 [Note] MySql: ready for connections.
+Version: '5.0.51a-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+151020 14:07:25 [Note] MySql: Normal shutdown
+
+151020 14:07:25  InnoDB: Starting shutdown...
+151020 14:07:27  InnoDB: Shutdown completed; log sequence number 0 43655
+151020 14:07:27 [Note] MySql: Shutdown complete
+
+151020 14:08:16  InnoDB: Started; log sequence number 0 43655
+151020 14:08:16 [Note] MySql: ready for connections.
+Version: '5.0.51a-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+151020 17:27:44 [Note] MySql: Normal shutdown
+
+151020 17:27:44  InnoDB: Starting shutdown...
+151020 17:27:45  InnoDB: Shutdown completed; log sequence number 0 43655
+151020 17:27:45 [Note] MySql: Shutdown complete
+
+151021  9:16:04  InnoDB: Started; log sequence number 0 43655
+151021  9:16:04 [Note] MySql: ready for connections.
+Version: '5.0.51a-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+151021 17:55:48 [Note] MySql: Normal shutdown
+
+151021 17:55:48  InnoDB: Starting shutdown...
+151021 17:55:50  InnoDB: Shutdown completed; log sequence number 0 43655
+151021 17:55:50 [Note] MySql: Shutdown complete
+
+151022  9:19:26  InnoDB: Started; log sequence number 0 43655
+151022  9:19:26 [Note] MySql: ready for connections.
+Version: '5.0.51a-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+151022 10:54:27 [Note] MySql: Normal shutdown
+
+151022 10:54:27  InnoDB: Starting shutdown...
+151022 10:54:29  InnoDB: Shutdown completed; log sequence number 0 43655
+151022 10:54:29 [Note] MySql: Shutdown complete
+
+151022 10:54:45  InnoDB: Started; log sequence number 0 43655
+151022 10:54:45 [Note] MySql: ready for connections.
+Version: '5.0.51a-community-nt'  socket: ''  port: 3306  MySQL Community Edition (GPL)

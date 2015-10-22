@@ -1,0 +1,9 @@
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.105 for ServerName
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_mysql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mysql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.105 for ServerName
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_mysql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mysql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Tue Sep 02 12:50:14 2008] [error] [client 127.0.0.1] File does not exist: D:/DedeAMPZ/WebRoot/Default/upload/img, referer: http://www.abc.com/install/index.php

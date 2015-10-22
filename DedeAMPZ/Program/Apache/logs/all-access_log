@@ -1,0 +1,13 @@
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.102 for ServerName
+PHP Warning:  Unknown(): Unable to load dynamic library 'D:/DedeAMPZ/Program/PHP4\\php_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+127.0.0.1 - - [02/Sep/2008:14:39:23 +0800] "GET / HTTP/1.1" 200 257
+127.0.0.1 - - [02/Sep/2008:14:39:25 +0800] "GET /favicon.ico HTTP/1.1" 404 209
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.102 for ServerName
+PHP Warning:  Unknown(): Unable to load dynamic library 'D:/DedeAMPZ/Program/PHP4\\php_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+127.0.0.1 - - [02/Sep/2008:14:44:46 +0800] "GET / HTTP/1.1" 200 16470
+127.0.0.1 - - [02/Sep/2008:14:44:46 +0800] "GET /php/modpage/img/base.css HTTP/1.1" 200 924
+127.0.0.1 - - [02/Sep/2008:14:44:46 +0800] "GET /php/modpage/img/dedebanner1.gif HTTP/1.1" 200 14132
+127.0.0.1 - - [02/Sep/2008:14:44:46 +0800] "GET /php/modpage/img/1-nlinebg.gif HTTP/1.1" 200 123
+127.0.0.1 - - [02/Sep/2008:14:44:46 +0800] "GET /php/modpage/defdd.gif HTTP/1.1" 200 4355
+127.0.0.1 - - [02/Sep/2008:14:44:46 +0800] "GET /php/modpage/img/106.gif HTTP/1.1" 200 306
+127.0.0.1 - - [02/Sep/2008:14:44:46 +0800] "GET /php/modpage/img/1-tt.gif HTTP/1.1" 200 160

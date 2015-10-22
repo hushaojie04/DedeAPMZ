@@ -1,0 +1,8 @@
+PHP Warning:  Unknown(): Unable to load dynamic library 'D:/DedeAMPZ/Program/php4\\php_iconv.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+PHP Warning:  Unknown(): Unable to load dynamic library 'D:/DedeAMPZ/Program/php4\\php_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.105 for ServerName
+[Tue Sep 02 12:47:21 2008] [error] [client 127.0.0.1] File does not exist: D:/DedeAMPZ/WebRoot/V3/install
+[Tue Sep 02 12:49:51 2008] [error] [client 127.0.0.1] File does not exist: D:/DedeAMPZ/WebRoot/V3/html/lanmuyi/ss1/img, referer: http://www.v3.com/html/lanmuyi/ss1/20080902/2.html
+[Tue Sep 02 12:51:36 2008] [error] [client 127.0.0.1] File does not exist: D:/DedeAMPZ/WebRoot/V3/img, referer: http://www.v3.com/
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.105 for ServerName
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.105 for ServerName

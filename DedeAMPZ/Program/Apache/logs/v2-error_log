@@ -1,0 +1,30 @@
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.105 for ServerName
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.105 for ServerName
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.105 for ServerName
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.105 for ServerName
+[Tue Sep 02 12:35:27 2008] [error] [client 127.0.0.1] File does not exist: D:/DedeAMPZ/WebRoot/V2/dede/menu.js, referer: http://www.v2.com/dede/file_view.php?activepath=/php/modpage
+[Tue Sep 02 12:35:31 2008] [error] [client 127.0.0.1] File does not exist: D:/DedeAMPZ/WebRoot/V2/dede/menu.js, referer: http://www.v2.com/dede/file_view.php?activepath=/php/modpage
+[Tue Sep 02 12:35:34 2008] [error] [client 127.0.0.1] File does not exist: D:/DedeAMPZ/WebRoot/V2/dede/menu.js, referer: http://www.v2.com/dede/file_view.php?activepath=/php/modpage/img
+[Tue Sep 02 12:35:37 2008] [error] [client 127.0.0.1] File does not exist: D:/DedeAMPZ/WebRoot/V2/dede/menu.js, referer: http://www.v2.com/dede/file_view.php?activepath=/php/modpage/%BF%C6%BC%BC%CA%B1%B4%FA
+[Tue Sep 02 12:35:41 2008] [error] [client 127.0.0.1] File does not exist: D:/DedeAMPZ/WebRoot/V2/dede/menu.js, referer: http://www.v2.com/dede/add_type.php?listtype=all
+[Tue Sep 02 12:35:49 2008] [error] [client 127.0.0.1] File does not exist: D:/DedeAMPZ/WebRoot/V2/dede/menu.js, referer: http://www.v2.com/dede/add_type.php?listtype=all
+[Tue Sep 02 12:35:57 2008] [error] [client 127.0.0.1] File does not exist: D:/DedeAMPZ/WebRoot/V2/dede/menu.js, referer: http://www.v2.com/dede/add_type.php?listtype=all
+[Tue Sep 02 12:36:02 2008] [error] [client 127.0.0.1] File does not exist: D:/DedeAMPZ/WebRoot/V2/dede/menu.js, referer: http://www.v2.com/dede/add_type.php?ID=1
+[Tue Sep 02 12:36:42 2008] [error] [client 127.0.0.1] File does not exist: D:/DedeAMPZ/WebRoot/V2/dede/menu.js, referer: http://www.v2.com/dede/add_type.php?ID=1
+[Tue Sep 02 12:36:59 2008] [error] [client 127.0.0.1] File does not exist: D:/DedeAMPZ/WebRoot/V2/dede/menu.js, referer: http://www.v2.com/dede/mod_type.php?ID=5&typeoldname=sss2
+[Tue Sep 02 12:37:41 2008] [error] [client 127.0.0.1] File does not exist: D:/DedeAMPZ/WebRoot/V2/dede/menu.js, referer: http://www.v2.com/dede/file_view.php?activepath=/php/modpage
+[Tue Sep 02 12:37:46 2008] [error] [client 127.0.0.1] File does not exist: D:/DedeAMPZ/WebRoot/V2/img, referer: http://www.v2.com/dede/make_part_testhome.php
+[Tue Sep 02 12:38:16 2008] [error] [client 127.0.0.1] File does not exist: D:/DedeAMPZ/WebRoot/V2/dede/menu.js, referer: http://www.v2.com/dede/add_news_ok.php
+[Tue Sep 02 12:38:28 2008] [error] [client 127.0.0.1] File does not exist: D:/DedeAMPZ/WebRoot/V2/dede/menu.js, referer: http://www.v2.com/dede/add_news_ok.php
+[Tue Sep 02 12:38:28 2008] [error] [client 127.0.0.1] File does not exist: D:/DedeAMPZ/WebRoot/V2/dede/menu.js, referer: http://www.v2.com/dede/add_news_ok.php
+[Tue Sep 02 12:38:52 2008] [error] [client 127.0.0.1] File does not exist: D:/DedeAMPZ/WebRoot/V2/dede/menu.js, referer: http://www.v2.com/dede/add_type.php?listtype=all
+[Tue Sep 02 12:39:09 2008] [error] [client 127.0.0.1] PHP Warning:  Call-time pass-by-reference has been deprecated - argument passed by value;  If you would like to pass it by reference, modify the declaration of getimagesize().  If you would like to enable call-time pass-by-reference, you can set allow_call_time_pass_reference to true in your INI file.  However, future versions may not support this any longer.  in D:\\DedeAMPZ\\WebRoot\\V2\\dede\\inc_pic_resize.php on line 4, referer: http://www.v2.com/dede/add_news_soft.php
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.105 for ServerName
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.105 for ServerName
+[Tue Sep 02 12:44:16 2008] [error] [client 127.0.0.1] PHP Warning:  fopen(D:/DedeAMPZ/WebRoot/V2/html/2/index.html) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in D:\\DedeAMPZ\\WebRoot\\V2\\dede\\inc_makepartcode.php on line 193, referer: http://www.v2.com/dede/list_type.php
+[Tue Sep 02 12:44:16 2008] [error] [client 127.0.0.1] PHP Warning:  fwrite(): supplied argument is not a valid stream resource in D:\\DedeAMPZ\\WebRoot\\V2\\dede\\inc_makepartcode.php on line 194, referer: http://www.v2.com/dede/list_type.php
+[Tue Sep 02 12:44:16 2008] [error] [client 127.0.0.1] PHP Warning:  fclose(): supplied argument is not a valid stream resource in D:\\DedeAMPZ\\WebRoot\\V2\\dede\\inc_makepartcode.php on line 195, referer: http://www.v2.com/dede/list_type.php
+[Tue Sep 02 12:44:16 2008] [error] [client 127.0.0.1] PHP Warning:  fopen(D:/DedeAMPZ/WebRoot/V2/html/3/index.html) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in D:\\DedeAMPZ\\WebRoot\\V2\\dede\\inc_makepartcode.php on line 193, referer: http://www.v2.com/dede/list_type.php
+[Tue Sep 02 12:44:16 2008] [error] [client 127.0.0.1] PHP Warning:  fwrite(): supplied argument is not a valid stream resource in D:\\DedeAMPZ\\WebRoot\\V2\\dede\\inc_makepartcode.php on line 194, referer: http://www.v2.com/dede/list_type.php
+[Tue Sep 02 12:44:16 2008] [error] [client 127.0.0.1] PHP Warning:  fclose(): supplied argument is not a valid stream resource in D:\\DedeAMPZ\\WebRoot\\V2\\dede\\inc_makepartcode.php on line 195, referer: http://www.v2.com/dede/list_type.php
+[Tue Sep 02 12:44:37 2008] [error] [client 127.0.0.1] File does not exist: D:/DedeAMPZ/WebRoot/V2/html/3, referer: http://www.v2.com/dede/make_list.php?job=all

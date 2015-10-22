@@ -1,0 +1,2 @@
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.102 for ServerName
+PHP Warning:  Unknown(): Unable to load dynamic library 'D:/DedeAMPZ/Program/PHP4\\php_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0

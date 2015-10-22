@@ -1,0 +1,11 @@
+[mysqld]
+basedir=C:/mysql
+datadir=C:/mysql/data
+tmpdir=C:/mysql/tmp
+port=3306
+set-variable=key_buffer=16M
+
+[WinMySQLadmin]
+Server=C:/mysql/bin/mysqld-nt.exe
+user=admin
+password=123456

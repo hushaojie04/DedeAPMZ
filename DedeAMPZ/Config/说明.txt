@@ -1,0 +1,28 @@
+
+1、数据库配置使用默认的配置即可
+
+2、Apahce 的配置不管使用php4还是php5，配置是基本一致的，由于在配置里直接指定了php.ini的路径，因此是不需要复制任何文件到系统目录的，由于虚拟主机配置文件是独立的因此重复安装也不会损坏原有的虚拟主机配置信息，不过在实际建站中使用需注意下面问题：apache的配置默认是可以浏览目录里的文件的，实际使用中不要使用这种做法(把 Options Indexes 改为 Options FollowSymLinks)。
+
+3、PHP的默认配置使用全开放模式，即是：
+
+short_open_tag = On
+allow_call_time_pass_reference = On
+register_globals = On
+magic_quotes_gpc = On
+
+建议使用的配置
+
+; 是否使用 <?  ?> On 则强制使用 <?php ?> 标签
+short_open_tag = Off
+
+; 是否允许运行时直接使用引用（如果Off，则使用引用调用前的变量必须强制初始化，否则会报错）
+allow_call_time_pass_reference = Off
+
+; 是否默认注册变量 ，这选项也会所 GET、POST 等数组的变量转换为普通的全局变量，通常为了安全起见，大多数程序都会自行预处理，因此这个一般建立用 Off
+register_globals = Off
+
+; 是否对传过来的请求字符串加转义符，对于大多数使用MySQL的用户，一般开启此项
+magic_quotes_gpc = On
+
+用后一种模式性能会更好，不过缺点是有些不大严格的PHP程序在这种模式下无法正常运行，可以按自己的需要进行适合调整。
+

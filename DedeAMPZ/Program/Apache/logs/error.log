@@ -1,0 +1,1502 @@
+[Tue Sep 02 11:57:57 2008] [notice] Apache/2.2.4 (Win32) PHP/5.2.4 configured -- resuming normal operations
+[Tue Sep 02 11:57:57 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Tue Sep 02 11:57:57 2008] [notice] Parent: Created child process 2340
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.105 for ServerName
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_mysql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mysql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Tue Sep 02 11:57:57 2008] [notice] Child 2340: Child process is running
+[Tue Sep 02 11:57:57 2008] [notice] Child 2340: Acquired the start mutex.
+[Tue Sep 02 11:57:57 2008] [notice] Child 2340: Starting 250 worker threads.
+[Tue Sep 02 11:57:57 2008] [notice] Child 2340: Starting thread to listen on port 80.
+[Tue Sep 02 11:58:50 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Tue Sep 02 11:58:50 2008] [notice] Child 2340: Exit event signaled. Child process is ending.
+[Tue Sep 02 11:58:51 2008] [notice] Child 2340: Released the start mutex
+[Tue Sep 02 11:58:52 2008] [notice] Child 2340: Waiting for 250 worker threads to exit.
+[Tue Sep 02 11:58:52 2008] [notice] Child 2340: All worker threads have exited.
+[Tue Sep 02 11:58:52 2008] [notice] Child 2340: Child process is exiting
+[Tue Sep 02 11:58:52 2008] [notice] Parent: Child process exited successfully.
+[Tue Sep 02 11:58:54 2008] [notice] Apache/2.2.4 (Win32) PHP/5.2.4 configured -- resuming normal operations
+[Tue Sep 02 11:58:54 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Tue Sep 02 11:58:54 2008] [notice] Parent: Created child process 1320
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.105 for ServerName
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_mysql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mysql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Tue Sep 02 11:58:54 2008] [notice] Child 1320: Child process is running
+[Tue Sep 02 11:58:54 2008] [notice] Child 1320: Acquired the start mutex.
+[Tue Sep 02 11:58:54 2008] [notice] Child 1320: Starting 250 worker threads.
+[Tue Sep 02 11:58:54 2008] [notice] Child 1320: Starting thread to listen on port 80.
+[Tue Sep 02 11:59:23 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Tue Sep 02 11:59:23 2008] [notice] Child 1320: Exit event signaled. Child process is ending.
+[Tue Sep 02 11:59:24 2008] [notice] Child 1320: Released the start mutex
+[Tue Sep 02 11:59:25 2008] [notice] Child 1320: Waiting for 250 worker threads to exit.
+[Tue Sep 02 11:59:25 2008] [notice] Child 1320: All worker threads have exited.
+[Tue Sep 02 11:59:25 2008] [notice] Child 1320: Child process is exiting
+[Tue Sep 02 11:59:25 2008] [notice] Parent: Child process exited successfully.
+[Tue Sep 02 11:59:27 2008] [notice] Apache/2.2.4 (Win32) PHP/5.2.4 configured -- resuming normal operations
+[Tue Sep 02 11:59:27 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Tue Sep 02 11:59:27 2008] [notice] Parent: Created child process 3392
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.105 for ServerName
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_mysql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mysql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Tue Sep 02 11:59:27 2008] [notice] Child 3392: Child process is running
+[Tue Sep 02 11:59:27 2008] [notice] Child 3392: Acquired the start mutex.
+[Tue Sep 02 11:59:27 2008] [notice] Child 3392: Starting 250 worker threads.
+[Tue Sep 02 11:59:27 2008] [notice] Child 3392: Starting thread to listen on port 80.
+[Tue Sep 02 12:02:32 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Tue Sep 02 12:02:32 2008] [notice] Child 3392: Exit event signaled. Child process is ending.
+[Tue Sep 02 12:02:33 2008] [notice] Child 3392: Released the start mutex
+[Tue Sep 02 12:02:34 2008] [notice] Child 3392: Waiting for 250 worker threads to exit.
+[Tue Sep 02 12:02:34 2008] [notice] Child 3392: All worker threads have exited.
+[Tue Sep 02 12:02:34 2008] [notice] Child 3392: Child process is exiting
+[Tue Sep 02 12:02:34 2008] [notice] Parent: Child process exited successfully.
+[Tue Sep 02 12:03:45 2008] [notice] Apache/2.2.4 (Win32) PHP/4.4.4 configured -- resuming normal operations
+[Tue Sep 02 12:03:45 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Tue Sep 02 12:03:45 2008] [notice] Parent: Created child process 3816
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.105 for ServerName
+PHP Warning:  Unknown(): Unable to load dynamic library 'D:/DedeAMPZ/Program/php4\\php_iconv.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+PHP Warning:  Unknown(): Unable to load dynamic library 'D:/DedeAMPZ/Program/php4\\php_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Tue Sep 02 12:03:45 2008] [notice] Child 3816: Child process is running
+[Tue Sep 02 12:03:45 2008] [notice] Child 3816: Acquired the start mutex.
+[Tue Sep 02 12:03:45 2008] [notice] Child 3816: Starting 250 worker threads.
+[Tue Sep 02 12:03:45 2008] [notice] Child 3816: Starting thread to listen on port 80.
+[Tue Sep 02 12:39:48 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Tue Sep 02 12:39:48 2008] [notice] Child 3816: Exit event signaled. Child process is ending.
+[Tue Sep 02 12:39:49 2008] [notice] Child 3816: Released the start mutex
+[Tue Sep 02 12:39:50 2008] [notice] Child 3816: Waiting for 250 worker threads to exit.
+[Tue Sep 02 12:39:50 2008] [notice] Child 3816: All worker threads have exited.
+[Tue Sep 02 12:39:50 2008] [notice] Child 3816: Child process is exiting
+Failed loading D:/DedeAMPZ/Program/lib/ZendExtensionManager.dll
+[Tue Sep 02 12:39:50 2008] [notice] Parent: Child process exited successfully.
+PHP Warning:  Unknown(): Unable to load dynamic library 'D:/DedeAMPZ/Program/php4\\php_iconv.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+PHP Warning:  Unknown(): Unable to load dynamic library 'D:/DedeAMPZ/Program/php4\\php_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Tue Sep 02 12:39:52 2008] [notice] Apache/2.2.4 (Win32) PHP/4.4.4 configured -- resuming normal operations
+[Tue Sep 02 12:39:52 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Tue Sep 02 12:39:52 2008] [notice] Parent: Created child process 2012
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.105 for ServerName
+PHP Warning:  Unknown(): Unable to load dynamic library 'D:/DedeAMPZ/Program/php4\\php_iconv.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+PHP Warning:  Unknown(): Unable to load dynamic library 'D:/DedeAMPZ/Program/php4\\php_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Tue Sep 02 12:39:52 2008] [notice] Child 2012: Child process is running
+[Tue Sep 02 12:39:52 2008] [notice] Child 2012: Acquired the start mutex.
+[Tue Sep 02 12:39:52 2008] [notice] Child 2012: Starting 250 worker threads.
+[Tue Sep 02 12:39:52 2008] [notice] Child 2012: Starting thread to listen on port 80.
+[Tue Sep 02 12:47:18 2008] [notice] Parent: Received restart signal -- Restarting the server.
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.105 for ServerName
+[Tue Sep 02 12:47:18 2008] [notice] Apache/2.2.4 (Win32) PHP/4.4.4 configured -- resuming normal operations
+[Tue Sep 02 12:47:18 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Tue Sep 02 12:47:18 2008] [notice] Parent: Created child process 1524
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.105 for ServerName
+PHP Warning:  Unknown(): Unable to load dynamic library 'D:/DedeAMPZ/Program/php4\\php_iconv.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+PHP Warning:  Unknown(): Unable to load dynamic library 'D:/DedeAMPZ/Program/php4\\php_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Tue Sep 02 12:47:19 2008] [notice] Child 1524: Child process is running
+[Tue Sep 02 12:47:19 2008] [notice] Child 2012: Released the start mutex
+[Tue Sep 02 12:47:19 2008] [notice] Child 1524: Acquired the start mutex.
+[Tue Sep 02 12:47:19 2008] [notice] Child 1524: Starting 250 worker threads.
+[Tue Sep 02 12:47:20 2008] [notice] Child 2012: Waiting for 250 worker threads to exit.
+[Tue Sep 02 12:47:21 2008] [notice] Child 2012: All worker threads have exited.
+[Tue Sep 02 12:47:21 2008] [notice] Child 2012: Child process is exiting
+Failed loading D:/DedeAMPZ/Program/lib/ZendExtensionManager.dll
+[Tue Sep 02 12:47:21 2008] [notice] Child 1524: Starting thread to listen on port 80.
+[Tue Sep 02 13:28:01 2008] [warn] pid file D:/DedeAMPZ/Program/Apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+PHP Warning:  Unknown(): Unable to load dynamic library 'D:/DedeAMPZ/Program/php4\\php_iconv.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+PHP Warning:  Unknown(): Unable to load dynamic library 'D:/DedeAMPZ/Program/php4\\php_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Tue Sep 02 13:28:01 2008] [notice] Apache/2.2.4 (Win32) PHP/4.4.4 configured -- resuming normal operations
+[Tue Sep 02 13:28:01 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Tue Sep 02 13:28:01 2008] [notice] Parent: Created child process 1480
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.105 for ServerName
+PHP Warning:  Unknown(): Unable to load dynamic library 'D:/DedeAMPZ/Program/php4\\php_iconv.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+PHP Warning:  Unknown(): Unable to load dynamic library 'D:/DedeAMPZ/Program/php4\\php_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Tue Sep 02 13:28:01 2008] [notice] Child 1480: Child process is running
+[Tue Sep 02 13:28:01 2008] [notice] Child 1480: Acquired the start mutex.
+[Tue Sep 02 13:28:01 2008] [notice] Child 1480: Starting 250 worker threads.
+[Tue Sep 02 13:28:01 2008] [notice] Child 1480: Starting thread to listen on port 80.
+[Tue Sep 02 13:31:58 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Tue Sep 02 13:31:58 2008] [notice] Child 1480: Exit event signaled. Child process is ending.
+[Tue Sep 02 13:31:59 2008] [notice] Child 1480: Released the start mutex
+[Tue Sep 02 13:32:00 2008] [notice] Child 1480: Waiting for 250 worker threads to exit.
+[Tue Sep 02 13:32:00 2008] [notice] Child 1480: All worker threads have exited.
+[Tue Sep 02 13:32:00 2008] [notice] Child 1480: Child process is exiting
+Failed loading D:/DedeAMPZ/Program/lib/ZendExtensionManager.dll
+[Tue Sep 02 13:32:00 2008] [notice] Parent: Child process exited successfully.
+[Tue Sep 02 14:39:00 2008] [notice] Apache/2.2.4 (Win32) PHP/4.4.4 configured -- resuming normal operations
+[Tue Sep 02 14:39:00 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Tue Sep 02 14:39:00 2008] [notice] Parent: Created child process 1968
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.102 for ServerName
+PHP Warning:  Unknown(): Unable to load dynamic library 'D:/DedeAMPZ/Program/PHP4\\php_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Tue Sep 02 14:39:00 2008] [notice] Child 1968: Child process is running
+[Tue Sep 02 14:39:00 2008] [notice] Child 1968: Acquired the start mutex.
+[Tue Sep 02 14:39:00 2008] [notice] Child 1968: Starting 250 worker threads.
+[Tue Sep 02 14:39:00 2008] [notice] Child 1968: Starting thread to listen on port 80.
+[Tue Sep 02 14:41:21 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Tue Sep 02 14:41:21 2008] [notice] Child 1968: Exit event signaled. Child process is ending.
+[Tue Sep 02 14:41:22 2008] [notice] Child 1968: Released the start mutex
+[Tue Sep 02 14:41:23 2008] [notice] Child 1968: Waiting for 250 worker threads to exit.
+[Tue Sep 02 14:41:23 2008] [notice] Child 1968: All worker threads have exited.
+[Tue Sep 02 14:41:23 2008] [notice] Child 1968: Child process is exiting
+Failed loading D:/DedeAMPZ/Program/lib/ZendExtensionManager.dll
+[Tue Sep 02 14:41:23 2008] [notice] Parent: Child process exited successfully.
+[Tue Sep 02 14:42:58 2008] [notice] Apache/2.2.4 (Win32) PHP/4.4.4 configured -- resuming normal operations
+[Tue Sep 02 14:42:58 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Tue Sep 02 14:42:58 2008] [notice] Parent: Created child process 3168
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.102 for ServerName
+PHP Warning:  Unknown(): Unable to load dynamic library 'D:/DedeAMPZ/Program/PHP4\\php_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Tue Sep 02 14:42:58 2008] [notice] Child 3168: Child process is running
+[Tue Sep 02 14:42:58 2008] [notice] Child 3168: Acquired the start mutex.
+[Tue Sep 02 14:42:58 2008] [notice] Child 3168: Starting 250 worker threads.
+[Tue Sep 02 14:42:58 2008] [notice] Child 3168: Starting thread to listen on port 80.
+[Tue Sep 02 14:44:33 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Tue Sep 02 14:44:33 2008] [notice] Child 3168: Exit event signaled. Child process is ending.
+[Tue Sep 02 14:44:34 2008] [notice] Child 3168: Released the start mutex
+[Tue Sep 02 14:44:35 2008] [notice] Child 3168: Waiting for 250 worker threads to exit.
+[Tue Sep 02 14:44:35 2008] [notice] Child 3168: All worker threads have exited.
+[Tue Sep 02 14:44:35 2008] [notice] Child 3168: Child process is exiting
+Failed loading D:/DedeAMPZ/Program/lib/ZendExtensionManager.dll
+[Tue Sep 02 14:44:36 2008] [notice] Parent: Child process exited successfully.
+[Tue Sep 02 14:44:41 2008] [notice] Apache/2.2.4 (Win32) PHP/4.4.4 configured -- resuming normal operations
+[Tue Sep 02 14:44:41 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Tue Sep 02 14:44:41 2008] [notice] Parent: Created child process 2120
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.102 for ServerName
+PHP Warning:  Unknown(): Unable to load dynamic library 'D:/DedeAMPZ/Program/PHP4\\php_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Tue Sep 02 14:44:41 2008] [notice] Child 2120: Child process is running
+[Tue Sep 02 14:44:41 2008] [notice] Child 2120: Acquired the start mutex.
+[Tue Sep 02 14:44:41 2008] [notice] Child 2120: Starting 250 worker threads.
+[Tue Sep 02 14:44:41 2008] [notice] Child 2120: Starting thread to listen on port 80.
+[Tue Sep 02 18:26:47 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Tue Sep 02 18:26:47 2008] [notice] Child 2120: Exit event signaled. Child process is ending.
+[Tue Sep 02 18:26:48 2008] [notice] Child 2120: Released the start mutex
+[Tue Sep 02 18:26:49 2008] [notice] Child 2120: Waiting for 250 worker threads to exit.
+[Tue Sep 02 18:26:49 2008] [notice] Child 2120: All worker threads have exited.
+[Tue Sep 02 18:26:49 2008] [notice] Child 2120: Child process is exiting
+Failed loading D:/DedeAMPZ/Program/lib/ZendExtensionManager.dll
+[Tue Sep 02 18:26:49 2008] [notice] Parent: Child process exited successfully.
+[Wed Sep 03 11:26:06 2008] [notice] Apache/2.2.4 (Win32) PHP/5.2.4 configured -- resuming normal operations
+[Wed Sep 03 11:26:06 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Wed Sep 03 11:26:06 2008] [notice] Parent: Created child process 2544
+Warning: DocumentRoot [D:/DedeAMPZ/WebRoot/test.com/WebRoot] does not exist
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.102 for ServerName
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_mysql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mysql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Wed Sep 03 11:26:07 2008] [notice] Child 2544: Child process is running
+[Wed Sep 03 11:26:07 2008] [notice] Child 2544: Acquired the start mutex.
+[Wed Sep 03 11:26:07 2008] [notice] Child 2544: Starting 250 worker threads.
+[Wed Sep 03 11:26:07 2008] [notice] Child 2544: Starting thread to listen on port 80.
+[Wed Sep 03 11:27:57 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Wed Sep 03 11:27:57 2008] [notice] Child 2544: Exit event signaled. Child process is ending.
+[Wed Sep 03 11:27:58 2008] [notice] Child 2544: Released the start mutex
+[Wed Sep 03 11:27:59 2008] [notice] Child 2544: Waiting for 250 worker threads to exit.
+[Wed Sep 03 11:27:59 2008] [notice] Child 2544: All worker threads have exited.
+[Wed Sep 03 11:27:59 2008] [notice] Child 2544: Child process is exiting
+[Wed Sep 03 11:28:00 2008] [notice] Parent: Child process exited successfully.
+[Wed Sep 03 11:28:01 2008] [notice] Apache/2.2.4 (Win32) PHP/5.2.4 configured -- resuming normal operations
+[Wed Sep 03 11:28:01 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Wed Sep 03 11:28:01 2008] [notice] Parent: Created child process 3224
+Warning: DocumentRoot [D:/DedeAMPZ/WebRoot/test.com/WebRoot] does not exist
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.102 for ServerName
+[Wed Sep 03 11:28:01 2008] [notice] Child 3224: Child process is running
+[Wed Sep 03 11:28:01 2008] [notice] Child 3224: Acquired the start mutex.
+[Wed Sep 03 11:28:01 2008] [notice] Child 3224: Starting 250 worker threads.
+[Wed Sep 03 11:28:01 2008] [notice] Child 3224: Starting thread to listen on port 80.
+[Wed Sep 03 11:29:46 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Wed Sep 03 11:29:46 2008] [notice] Child 3224: Exit event signaled. Child process is ending.
+[Wed Sep 03 11:29:47 2008] [notice] Child 3224: Released the start mutex
+[Wed Sep 03 11:29:48 2008] [notice] Child 3224: Waiting for 250 worker threads to exit.
+[Wed Sep 03 11:29:48 2008] [notice] Child 3224: All worker threads have exited.
+[Wed Sep 03 11:29:48 2008] [notice] Child 3224: Child process is exiting
+[Wed Sep 03 11:29:48 2008] [notice] Parent: Child process exited successfully.
+[Wed Sep 03 11:29:50 2008] [notice] Apache/2.2.4 (Win32) PHP/5.2.4 configured -- resuming normal operations
+[Wed Sep 03 11:29:50 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Wed Sep 03 11:29:50 2008] [notice] Parent: Created child process 828
+Warning: DocumentRoot [D:/DedeAMPZ/WebRoot/test.com/WebRoot] does not exist
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.102 for ServerName
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_mysql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mysql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Wed Sep 03 11:29:50 2008] [notice] Child 828: Child process is running
+[Wed Sep 03 11:29:50 2008] [notice] Child 828: Acquired the start mutex.
+[Wed Sep 03 11:29:50 2008] [notice] Child 828: Starting 250 worker threads.
+[Wed Sep 03 11:29:50 2008] [notice] Child 828: Starting thread to listen on port 80.
+[Wed Sep 03 11:36:00 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Wed Sep 03 11:36:00 2008] [notice] Child 828: Exit event signaled. Child process is ending.
+[Wed Sep 03 11:36:01 2008] [notice] Child 828: Released the start mutex
+[Wed Sep 03 11:36:02 2008] [notice] Child 828: Waiting for 250 worker threads to exit.
+[Wed Sep 03 11:36:02 2008] [notice] Child 828: All worker threads have exited.
+[Wed Sep 03 11:36:02 2008] [notice] Child 828: Child process is exiting
+[Wed Sep 03 11:36:02 2008] [notice] Parent: Child process exited successfully.
+[Wed Sep 03 11:36:04 2008] [notice] Apache/2.2.4 (Win32) PHP/5.2.4 configured -- resuming normal operations
+[Wed Sep 03 11:36:04 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Wed Sep 03 11:36:04 2008] [notice] Parent: Created child process 600
+Warning: DocumentRoot [D:/DedeAMPZ/WebRoot/test.com/WebRoot] does not exist
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.102 for ServerName
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_mysql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mysql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Wed Sep 03 11:36:04 2008] [notice] Child 600: Child process is running
+[Wed Sep 03 11:36:04 2008] [notice] Child 600: Acquired the start mutex.
+[Wed Sep 03 11:36:04 2008] [notice] Child 600: Starting 250 worker threads.
+[Wed Sep 03 11:36:04 2008] [notice] Child 600: Starting thread to listen on port 80.
+[Wed Sep 03 11:43:26 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Wed Sep 03 11:43:26 2008] [notice] Child 600: Exit event signaled. Child process is ending.
+[Wed Sep 03 11:43:27 2008] [notice] Child 600: Released the start mutex
+[Wed Sep 03 11:43:28 2008] [notice] Child 600: Waiting for 250 worker threads to exit.
+[Wed Sep 03 11:43:28 2008] [notice] Child 600: All worker threads have exited.
+[Wed Sep 03 11:43:28 2008] [notice] Child 600: Child process is exiting
+[Wed Sep 03 11:43:28 2008] [notice] Parent: Child process exited successfully.
+[Wed Sep 03 11:48:25 2008] [notice] Apache/2.2.4 (Win32) PHP/5.2.4 configured -- resuming normal operations
+[Wed Sep 03 11:48:25 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Wed Sep 03 11:48:25 2008] [notice] Parent: Created child process 1436
+Warning: DocumentRoot [D:/DedeAMPZ/WebRoot/test.com/WebRoot] does not exist
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.102 for ServerName
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_mysql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mysql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Wed Sep 03 11:48:25 2008] [notice] Child 1436: Child process is running
+[Wed Sep 03 11:48:25 2008] [notice] Child 1436: Acquired the start mutex.
+[Wed Sep 03 11:48:25 2008] [notice] Child 1436: Starting 250 worker threads.
+[Wed Sep 03 11:48:25 2008] [notice] Child 1436: Starting thread to listen on port 80.
+[Wed Sep 03 11:49:42 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Wed Sep 03 11:49:42 2008] [notice] Child 1436: Exit event signaled. Child process is ending.
+[Wed Sep 03 11:49:43 2008] [notice] Child 1436: Released the start mutex
+[Wed Sep 03 11:49:44 2008] [notice] Child 1436: Waiting for 250 worker threads to exit.
+[Wed Sep 03 11:49:44 2008] [notice] Child 1436: All worker threads have exited.
+[Wed Sep 03 11:49:44 2008] [notice] Child 1436: Child process is exiting
+[Wed Sep 03 11:49:44 2008] [notice] Parent: Child process exited successfully.
+[Wed Sep 03 11:49:46 2008] [notice] Apache/2.2.4 (Win32) PHP/5.2.4 configured -- resuming normal operations
+[Wed Sep 03 11:49:46 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Wed Sep 03 11:49:46 2008] [notice] Parent: Created child process 3012
+Warning: DocumentRoot [D:/DedeAMPZ/WebRoot/test.com/WebRoot] does not exist
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.102 for ServerName
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_mysql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mysql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Wed Sep 03 11:49:46 2008] [notice] Child 3012: Child process is running
+[Wed Sep 03 11:49:46 2008] [notice] Child 3012: Acquired the start mutex.
+[Wed Sep 03 11:49:46 2008] [notice] Child 3012: Starting 250 worker threads.
+[Wed Sep 03 11:49:46 2008] [notice] Child 3012: Starting thread to listen on port 80.
+[Wed Sep 03 11:50:26 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Wed Sep 03 11:50:26 2008] [notice] Child 3012: Exit event signaled. Child process is ending.
+[Wed Sep 03 11:50:27 2008] [notice] Child 3012: Released the start mutex
+[Wed Sep 03 11:50:28 2008] [notice] Child 3012: Waiting for 250 worker threads to exit.
+[Wed Sep 03 11:50:28 2008] [notice] Child 3012: All worker threads have exited.
+[Wed Sep 03 11:50:28 2008] [notice] Child 3012: Child process is exiting
+[Wed Sep 03 11:50:29 2008] [notice] Parent: Child process exited successfully.
+[Wed Sep 03 11:50:30 2008] [notice] Apache/2.2.4 (Win32) PHP/5.2.4 configured -- resuming normal operations
+[Wed Sep 03 11:50:30 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Wed Sep 03 11:50:30 2008] [notice] Parent: Created child process 2844
+Warning: DocumentRoot [D:/DedeAMPZ/WebRoot/test.com/WebRoot] does not exist
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.102 for ServerName
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_mysql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mysql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Wed Sep 03 11:50:30 2008] [notice] Child 2844: Child process is running
+[Wed Sep 03 11:50:30 2008] [notice] Child 2844: Acquired the start mutex.
+[Wed Sep 03 11:50:30 2008] [notice] Child 2844: Starting 250 worker threads.
+[Wed Sep 03 11:50:30 2008] [notice] Child 2844: Starting thread to listen on port 80.
+[Wed Sep 03 11:52:49 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Wed Sep 03 11:52:49 2008] [notice] Child 2844: Exit event signaled. Child process is ending.
+[Wed Sep 03 11:52:50 2008] [notice] Child 2844: Released the start mutex
+[Wed Sep 03 11:52:51 2008] [notice] Child 2844: Waiting for 250 worker threads to exit.
+[Wed Sep 03 11:52:51 2008] [notice] Child 2844: All worker threads have exited.
+[Wed Sep 03 11:52:51 2008] [notice] Child 2844: Child process is exiting
+[Wed Sep 03 11:52:51 2008] [notice] Parent: Child process exited successfully.
+[Wed Sep 03 11:52:52 2008] [notice] Apache/2.2.4 (Win32) PHP/5.2.4 configured -- resuming normal operations
+[Wed Sep 03 11:52:52 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Wed Sep 03 11:52:52 2008] [notice] Parent: Created child process 3624
+Warning: DocumentRoot [D:/DedeAMPZ/WebRoot/test.com/WebRoot] does not exist
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.102 for ServerName
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_mysql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mysql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Wed Sep 03 11:52:52 2008] [notice] Child 3624: Child process is running
+[Wed Sep 03 11:52:52 2008] [notice] Child 3624: Acquired the start mutex.
+[Wed Sep 03 11:52:52 2008] [notice] Child 3624: Starting 250 worker threads.
+[Wed Sep 03 11:52:52 2008] [notice] Child 3624: Starting thread to listen on port 80.
+[Wed Sep 03 11:53:05 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Wed Sep 03 11:53:05 2008] [notice] Child 3624: Exit event signaled. Child process is ending.
+[Wed Sep 03 11:53:06 2008] [notice] Child 3624: Released the start mutex
+[Wed Sep 03 11:53:07 2008] [notice] Child 3624: Waiting for 250 worker threads to exit.
+[Wed Sep 03 11:53:07 2008] [notice] Child 3624: All worker threads have exited.
+[Wed Sep 03 11:53:07 2008] [notice] Child 3624: Child process is exiting
+[Wed Sep 03 11:53:07 2008] [notice] Parent: Child process exited successfully.
+[Wed Sep 03 11:53:09 2008] [notice] Apache/2.2.4 (Win32) PHP/5.2.4 configured -- resuming normal operations
+[Wed Sep 03 11:53:09 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Wed Sep 03 11:53:09 2008] [notice] Parent: Created child process 1992
+Warning: DocumentRoot [D:/DedeAMPZ/WebRoot/test.com/WebRoot] does not exist
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.102 for ServerName
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_mysql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mysql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Wed Sep 03 11:53:09 2008] [notice] Child 1992: Child process is running
+[Wed Sep 03 11:53:09 2008] [notice] Child 1992: Acquired the start mutex.
+[Wed Sep 03 11:53:09 2008] [notice] Child 1992: Starting 250 worker threads.
+[Wed Sep 03 11:53:09 2008] [notice] Child 1992: Starting thread to listen on port 80.
+[Wed Sep 03 12:01:14 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Wed Sep 03 12:01:14 2008] [notice] Child 1992: Exit event signaled. Child process is ending.
+[Wed Sep 03 12:01:15 2008] [notice] Child 1992: Released the start mutex
+[Wed Sep 03 12:01:16 2008] [notice] Child 1992: Waiting for 250 worker threads to exit.
+[Wed Sep 03 12:01:16 2008] [notice] Child 1992: All worker threads have exited.
+[Wed Sep 03 12:01:16 2008] [notice] Child 1992: Child process is exiting
+[Wed Sep 03 12:01:16 2008] [notice] Parent: Child process exited successfully.
+[Wed Sep 03 12:01:17 2008] [notice] Apache/2.2.4 (Win32) PHP/5.2.4 configured -- resuming normal operations
+[Wed Sep 03 12:01:17 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Wed Sep 03 12:01:17 2008] [notice] Parent: Created child process 1540
+Warning: DocumentRoot [D:/DedeAMPZ/WebRoot/test.com/WebRoot] does not exist
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.102 for ServerName
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_mysql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mysql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Wed Sep 03 12:01:18 2008] [notice] Child 1540: Child process is running
+[Wed Sep 03 12:01:18 2008] [notice] Child 1540: Acquired the start mutex.
+[Wed Sep 03 12:01:18 2008] [notice] Child 1540: Starting 250 worker threads.
+[Wed Sep 03 12:01:18 2008] [notice] Child 1540: Starting thread to listen on port 80.
+[Wed Sep 03 12:01:41 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Wed Sep 03 12:01:41 2008] [notice] Child 1540: Exit event signaled. Child process is ending.
+[Wed Sep 03 12:01:42 2008] [notice] Child 1540: Released the start mutex
+[Wed Sep 03 12:01:43 2008] [notice] Child 1540: Waiting for 250 worker threads to exit.
+[Wed Sep 03 12:01:43 2008] [notice] Child 1540: All worker threads have exited.
+[Wed Sep 03 12:01:43 2008] [notice] Child 1540: Child process is exiting
+[Wed Sep 03 12:01:43 2008] [notice] Parent: Child process exited successfully.
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_mysql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mysql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Wed Sep 03 12:01:44 2008] [notice] Apache/2.2.4 (Win32) PHP/5.2.4 configured -- resuming normal operations
+[Wed Sep 03 12:01:44 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Wed Sep 03 12:01:44 2008] [notice] Parent: Created child process 2384
+Warning: DocumentRoot [D:/DedeAMPZ/WebRoot/test.com/WebRoot] does not exist
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.102 for ServerName
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_mysql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mysql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Wed Sep 03 12:01:45 2008] [notice] Child 2384: Child process is running
+[Wed Sep 03 12:01:45 2008] [notice] Child 2384: Acquired the start mutex.
+[Wed Sep 03 12:01:45 2008] [notice] Child 2384: Starting 250 worker threads.
+[Wed Sep 03 12:01:45 2008] [notice] Child 2384: Starting thread to listen on port 80.
+[Wed Sep 03 12:08:38 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Wed Sep 03 12:08:38 2008] [notice] Child 2384: Exit event signaled. Child process is ending.
+[Wed Sep 03 12:08:39 2008] [notice] Child 2384: Released the start mutex
+[Wed Sep 03 12:08:40 2008] [notice] Child 2384: Waiting for 250 worker threads to exit.
+[Wed Sep 03 12:08:40 2008] [notice] Child 2384: All worker threads have exited.
+[Wed Sep 03 12:08:40 2008] [notice] Child 2384: Child process is exiting
+[Wed Sep 03 12:08:40 2008] [notice] Parent: Child process exited successfully.
+[Wed Sep 03 12:08:41 2008] [notice] Apache/2.2.4 (Win32) PHP/5.2.4 configured -- resuming normal operations
+[Wed Sep 03 12:08:41 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Wed Sep 03 12:08:41 2008] [notice] Parent: Created child process 132
+Warning: DocumentRoot [D:/DedeAMPZ/WebRoot/test.com/WebRoot] does not exist
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.102 for ServerName
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_mysql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mysql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Wed Sep 03 12:08:41 2008] [notice] Child 132: Child process is running
+[Wed Sep 03 12:08:41 2008] [notice] Child 132: Acquired the start mutex.
+[Wed Sep 03 12:08:41 2008] [notice] Child 132: Starting 250 worker threads.
+[Wed Sep 03 12:08:41 2008] [notice] Child 132: Starting thread to listen on port 80.
+[Wed Sep 03 13:30:53 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Wed Sep 03 13:30:53 2008] [notice] Child 132: Exit event signaled. Child process is ending.
+[Wed Sep 03 13:30:54 2008] [notice] Child 132: Released the start mutex
+[Wed Sep 03 13:30:55 2008] [notice] Child 132: Waiting for 250 worker threads to exit.
+[Wed Sep 03 13:30:55 2008] [notice] Child 132: All worker threads have exited.
+[Wed Sep 03 13:30:55 2008] [notice] Child 132: Child process is exiting
+[Wed Sep 03 13:30:55 2008] [notice] Parent: Child process exited successfully.
+[Wed Sep 03 13:31:03 2008] [notice] Apache/2.2.4 (Win32) PHP/5.2.4 configured -- resuming normal operations
+[Wed Sep 03 13:31:03 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Wed Sep 03 13:31:03 2008] [notice] Parent: Created child process 868
+Warning: DocumentRoot [D:/DedeAMPZ/WebRoot/test.com/WebRoot] does not exist
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.102 for ServerName
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_mysql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mysql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Wed Sep 03 13:31:03 2008] [notice] Child 868: Child process is running
+[Wed Sep 03 13:31:03 2008] [notice] Child 868: Acquired the start mutex.
+[Wed Sep 03 13:31:03 2008] [notice] Child 868: Starting 250 worker threads.
+[Wed Sep 03 13:31:03 2008] [notice] Child 868: Starting thread to listen on port 80.
+[Wed Sep 03 13:32:00 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Wed Sep 03 13:32:00 2008] [notice] Child 868: Exit event signaled. Child process is ending.
+[Wed Sep 03 13:32:01 2008] [notice] Child 868: Released the start mutex
+[Wed Sep 03 13:32:02 2008] [notice] Child 868: Waiting for 250 worker threads to exit.
+[Wed Sep 03 13:32:02 2008] [notice] Child 868: All worker threads have exited.
+[Wed Sep 03 13:32:02 2008] [notice] Child 868: Child process is exiting
+[Wed Sep 03 13:32:02 2008] [notice] Parent: Child process exited successfully.
+[Wed Sep 03 13:32:03 2008] [notice] Apache/2.2.4 (Win32) PHP/5.2.4 configured -- resuming normal operations
+[Wed Sep 03 13:32:03 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Wed Sep 03 13:32:03 2008] [notice] Parent: Created child process 1692
+Warning: DocumentRoot [D:/DedeAMPZ/WebRoot/test.com/WebRoot] does not exist
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.102 for ServerName
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_mysql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mysql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Wed Sep 03 13:32:03 2008] [notice] Child 1692: Child process is running
+[Wed Sep 03 13:32:03 2008] [notice] Child 1692: Acquired the start mutex.
+[Wed Sep 03 13:32:03 2008] [notice] Child 1692: Starting 250 worker threads.
+[Wed Sep 03 13:32:03 2008] [notice] Child 1692: Starting thread to listen on port 80.
+[Wed Sep 03 13:32:50 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Wed Sep 03 13:32:50 2008] [notice] Child 1692: Exit event signaled. Child process is ending.
+[Wed Sep 03 13:32:51 2008] [notice] Child 1692: Released the start mutex
+[Wed Sep 03 13:32:52 2008] [notice] Child 1692: Waiting for 250 worker threads to exit.
+[Wed Sep 03 13:32:52 2008] [notice] Child 1692: All worker threads have exited.
+[Wed Sep 03 13:32:52 2008] [notice] Child 1692: Child process is exiting
+[Wed Sep 03 13:32:52 2008] [notice] Parent: Child process exited successfully.
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_mysql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mysql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Wed Sep 03 13:32:54 2008] [notice] Apache/2.2.4 (Win32) PHP/5.2.4 configured -- resuming normal operations
+[Wed Sep 03 13:32:54 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Wed Sep 03 13:32:54 2008] [notice] Parent: Created child process 3408
+Warning: DocumentRoot [D:/DedeAMPZ/WebRoot/test.com/WebRoot] does not exist
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.102 for ServerName
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_mysql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mysql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Wed Sep 03 13:32:54 2008] [notice] Child 3408: Child process is running
+[Wed Sep 03 13:32:54 2008] [notice] Child 3408: Acquired the start mutex.
+[Wed Sep 03 13:32:54 2008] [notice] Child 3408: Starting 250 worker threads.
+[Wed Sep 03 13:32:54 2008] [notice] Child 3408: Starting thread to listen on port 80.
+[Wed Sep 03 13:34:01 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Wed Sep 03 13:34:01 2008] [notice] Child 3408: Exit event signaled. Child process is ending.
+[Wed Sep 03 13:34:02 2008] [notice] Child 3408: Released the start mutex
+[Wed Sep 03 13:34:03 2008] [notice] Child 3408: Waiting for 250 worker threads to exit.
+[Wed Sep 03 13:34:03 2008] [notice] Child 3408: All worker threads have exited.
+[Wed Sep 03 13:34:03 2008] [notice] Child 3408: Child process is exiting
+[Wed Sep 03 13:34:03 2008] [notice] Parent: Child process exited successfully.
+[Wed Sep 03 13:34:05 2008] [notice] Apache/2.2.4 (Win32) PHP/5.2.4 configured -- resuming normal operations
+[Wed Sep 03 13:34:05 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Wed Sep 03 13:34:05 2008] [notice] Parent: Created child process 3644
+Warning: DocumentRoot [D:/DedeAMPZ/WebRoot/test.com/WebRoot] does not exist
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.102 for ServerName
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_mysql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mysql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Wed Sep 03 13:34:05 2008] [notice] Child 3644: Child process is running
+[Wed Sep 03 13:34:05 2008] [notice] Child 3644: Acquired the start mutex.
+[Wed Sep 03 13:34:05 2008] [notice] Child 3644: Starting 250 worker threads.
+[Wed Sep 03 13:34:05 2008] [notice] Child 3644: Starting thread to listen on port 80.
+[Wed Sep 03 13:35:07 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Wed Sep 03 13:35:07 2008] [notice] Child 3644: Exit event signaled. Child process is ending.
+[Wed Sep 03 13:35:08 2008] [notice] Child 3644: Released the start mutex
+[Wed Sep 03 13:35:09 2008] [notice] Child 3644: Waiting for 250 worker threads to exit.
+[Wed Sep 03 13:35:09 2008] [notice] Child 3644: All worker threads have exited.
+[Wed Sep 03 13:35:09 2008] [notice] Child 3644: Child process is exiting
+[Wed Sep 03 13:35:09 2008] [notice] Parent: Child process exited successfully.
+[Wed Sep 03 13:35:11 2008] [notice] Apache/2.2.4 (Win32) PHP/5.2.4 configured -- resuming normal operations
+[Wed Sep 03 13:35:11 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Wed Sep 03 13:35:11 2008] [notice] Parent: Created child process 800
+Warning: DocumentRoot [D:/DedeAMPZ/WebRoot/test.com/WebRoot] does not exist
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.102 for ServerName
+[Wed Sep 03 13:35:11 2008] [notice] Child 800: Child process is running
+[Wed Sep 03 13:35:11 2008] [notice] Child 800: Acquired the start mutex.
+[Wed Sep 03 13:35:11 2008] [notice] Child 800: Starting 250 worker threads.
+[Wed Sep 03 13:35:11 2008] [notice] Child 800: Starting thread to listen on port 80.
+[Wed Sep 03 13:35:49 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Wed Sep 03 13:35:49 2008] [notice] Child 800: Exit event signaled. Child process is ending.
+[Wed Sep 03 13:35:50 2008] [notice] Child 800: Released the start mutex
+[Wed Sep 03 13:35:51 2008] [notice] Child 800: Waiting for 250 worker threads to exit.
+[Wed Sep 03 13:35:51 2008] [notice] Child 800: All worker threads have exited.
+[Wed Sep 03 13:35:51 2008] [notice] Child 800: Child process is exiting
+[Wed Sep 03 13:35:51 2008] [notice] Parent: Child process exited successfully.
+[Wed Sep 03 13:38:25 2008] [notice] Apache/2.2.4 (Win32) PHP/5.2.4 configured -- resuming normal operations
+[Wed Sep 03 13:38:25 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Wed Sep 03 13:38:25 2008] [notice] Parent: Created child process 3656
+Warning: DocumentRoot [D:/DedeAMPZ/WebRoot/test.com/WebRoot] does not exist
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.102 for ServerName
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_mysql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mysql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Wed Sep 03 13:38:25 2008] [notice] Child 3656: Child process is running
+[Wed Sep 03 13:38:25 2008] [notice] Child 3656: Acquired the start mutex.
+[Wed Sep 03 13:38:25 2008] [notice] Child 3656: Starting 250 worker threads.
+[Wed Sep 03 13:38:25 2008] [notice] Child 3656: Starting thread to listen on port 80.
+[Wed Sep 03 13:40:58 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Wed Sep 03 13:40:58 2008] [notice] Child 3656: Exit event signaled. Child process is ending.
+[Wed Sep 03 13:40:59 2008] [notice] Child 3656: Released the start mutex
+[Wed Sep 03 13:41:00 2008] [notice] Child 3656: Waiting for 250 worker threads to exit.
+[Wed Sep 03 13:41:01 2008] [notice] Child 3656: All worker threads have exited.
+[Wed Sep 03 13:41:01 2008] [notice] Child 3656: Child process is exiting
+[Wed Sep 03 13:41:01 2008] [notice] Parent: Child process exited successfully.
+[Wed Sep 03 13:42:28 2008] [notice] Apache/2.2.4 (Win32) PHP/5.2.4 configured -- resuming normal operations
+[Wed Sep 03 13:42:28 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Wed Sep 03 13:42:28 2008] [notice] Parent: Created child process 3404
+Warning: DocumentRoot [D:/DedeAMPZ/WebRoot/test.com/WebRoot] does not exist
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.102 for ServerName
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_mysql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mysql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Wed Sep 03 13:42:28 2008] [notice] Child 3404: Child process is running
+[Wed Sep 03 13:42:28 2008] [notice] Child 3404: Acquired the start mutex.
+[Wed Sep 03 13:42:28 2008] [notice] Child 3404: Starting 250 worker threads.
+[Wed Sep 03 13:42:28 2008] [notice] Child 3404: Starting thread to listen on port 80.
+[Wed Sep 03 13:48:58 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Wed Sep 03 13:48:58 2008] [notice] Child 3404: Exit event signaled. Child process is ending.
+[Wed Sep 03 13:48:59 2008] [notice] Child 3404: Released the start mutex
+[Wed Sep 03 13:49:00 2008] [notice] Child 3404: Waiting for 250 worker threads to exit.
+[Wed Sep 03 13:49:00 2008] [notice] Child 3404: All worker threads have exited.
+[Wed Sep 03 13:49:00 2008] [notice] Child 3404: Child process is exiting
+[Wed Sep 03 13:49:00 2008] [notice] Parent: Child process exited successfully.
+[Wed Sep 03 13:59:47 2008] [notice] Apache/2.2.4 (Win32) PHP/5.2.4 configured -- resuming normal operations
+[Wed Sep 03 13:59:47 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Wed Sep 03 13:59:47 2008] [notice] Parent: Created child process 1884
+Warning: DocumentRoot [D:/DedeAMPZ/WebRoot/test.com/WebRoot] does not exist
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.102 for ServerName
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_mysql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mysql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Wed Sep 03 13:59:47 2008] [notice] Child 1884: Child process is running
+[Wed Sep 03 13:59:47 2008] [notice] Child 1884: Acquired the start mutex.
+[Wed Sep 03 13:59:47 2008] [notice] Child 1884: Starting 250 worker threads.
+[Wed Sep 03 13:59:47 2008] [notice] Child 1884: Starting thread to listen on port 80.
+[Wed Sep 03 14:24:03 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Wed Sep 03 14:24:03 2008] [notice] Child 1884: Exit event signaled. Child process is ending.
+[Wed Sep 03 14:24:04 2008] [notice] Child 1884: Released the start mutex
+[Wed Sep 03 14:24:05 2008] [notice] Child 1884: Waiting for 250 worker threads to exit.
+[Wed Sep 03 14:24:05 2008] [notice] Child 1884: All worker threads have exited.
+[Wed Sep 03 14:24:05 2008] [notice] Child 1884: Child process is exiting
+[Wed Sep 03 14:24:05 2008] [notice] Parent: Child process exited successfully.
+[Wed Sep 03 14:53:03 2008] [notice] Apache/2.2.4 (Win32) PHP/5.2.4 configured -- resuming normal operations
+[Wed Sep 03 14:53:03 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Wed Sep 03 14:53:03 2008] [notice] Parent: Created child process 2424
+Warning: DocumentRoot [D:/DedeAMPZ/WebRoot/test.com/WebRoot] does not exist
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.102 for ServerName
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_mysql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mysql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Wed Sep 03 14:53:03 2008] [notice] Child 2424: Child process is running
+[Wed Sep 03 14:53:03 2008] [notice] Child 2424: Acquired the start mutex.
+[Wed Sep 03 14:53:03 2008] [notice] Child 2424: Starting 250 worker threads.
+[Wed Sep 03 14:53:03 2008] [notice] Child 2424: Starting thread to listen on port 80.
+[Wed Sep 03 14:59:16 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Wed Sep 03 14:59:16 2008] [notice] Child 2424: Exit event signaled. Child process is ending.
+[Wed Sep 03 14:59:17 2008] [notice] Child 2424: Released the start mutex
+[Wed Sep 03 14:59:18 2008] [notice] Child 2424: Waiting for 250 worker threads to exit.
+[Wed Sep 03 14:59:18 2008] [notice] Child 2424: All worker threads have exited.
+[Wed Sep 03 14:59:18 2008] [notice] Child 2424: Child process is exiting
+[Wed Sep 03 14:59:18 2008] [notice] Parent: Child process exited successfully.
+[Wed Sep 03 15:01:12 2008] [notice] Apache/2.2.4 (Win32) PHP/5.2.4 configured -- resuming normal operations
+[Wed Sep 03 15:01:12 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Wed Sep 03 15:01:12 2008] [notice] Parent: Created child process 2932
+Warning: DocumentRoot [D:/DedeAMPZ/WebRoot/test.com/WebRoot] does not exist
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.102 for ServerName
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_mysql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mysql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Wed Sep 03 15:01:12 2008] [notice] Child 2932: Child process is running
+[Wed Sep 03 15:01:12 2008] [notice] Child 2932: Acquired the start mutex.
+[Wed Sep 03 15:01:12 2008] [notice] Child 2932: Starting 250 worker threads.
+[Wed Sep 03 15:01:12 2008] [notice] Child 2932: Starting thread to listen on port 80.
+[Wed Sep 03 15:01:50 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Wed Sep 03 15:01:50 2008] [notice] Child 2932: Exit event signaled. Child process is ending.
+[Wed Sep 03 15:01:51 2008] [notice] Child 2932: Released the start mutex
+[Wed Sep 03 15:01:52 2008] [notice] Child 2932: Waiting for 250 worker threads to exit.
+[Wed Sep 03 15:01:52 2008] [notice] Child 2932: All worker threads have exited.
+[Wed Sep 03 15:01:52 2008] [notice] Child 2932: Child process is exiting
+[Wed Sep 03 15:01:52 2008] [notice] Parent: Child process exited successfully.
+[Wed Sep 03 15:05:43 2008] [notice] Apache/2.2.4 (Win32) PHP/4.4.4 configured -- resuming normal operations
+[Wed Sep 03 15:05:43 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Wed Sep 03 15:05:43 2008] [notice] Parent: Created child process 3976
+Warning: DocumentRoot [D:/DedeAMPZ/WebRoot/test.com/WebRoot] does not exist
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.102 for ServerName
+PHP Warning:  Unknown(): Unable to load dynamic library 'D:/DedeAMPZ/Program/PHP4\\php_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Wed Sep 03 15:05:43 2008] [notice] Child 3976: Child process is running
+[Wed Sep 03 15:05:43 2008] [notice] Child 3976: Acquired the start mutex.
+[Wed Sep 03 15:05:43 2008] [notice] Child 3976: Starting 250 worker threads.
+[Wed Sep 03 15:05:43 2008] [notice] Child 3976: Starting thread to listen on port 80.
+[Wed Sep 03 15:17:23 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Wed Sep 03 15:17:23 2008] [notice] Child 3976: Exit event signaled. Child process is ending.
+[Wed Sep 03 15:17:24 2008] [notice] Child 3976: Released the start mutex
+[Wed Sep 03 15:17:25 2008] [notice] Child 3976: Waiting for 250 worker threads to exit.
+[Wed Sep 03 15:17:25 2008] [notice] Child 3976: All worker threads have exited.
+[Wed Sep 03 15:17:25 2008] [notice] Child 3976: Child process is exiting
+Failed loading D:/DedeAMPZ/Program/lib/ZendExtensionManager.dll
+[Wed Sep 03 15:17:25 2008] [notice] Parent: Child process exited successfully.
+[Wed Sep 03 15:17:32 2008] [notice] Apache/2.2.4 (Win32) PHP/4.4.4 configured -- resuming normal operations
+[Wed Sep 03 15:17:32 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Wed Sep 03 15:17:32 2008] [notice] Parent: Created child process 3584
+Warning: DocumentRoot [D:/DedeAMPZ/WebRoot/test.com/WebRoot] does not exist
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.102 for ServerName
+PHP Warning:  Unknown(): Unable to load dynamic library 'D:/DedeAMPZ/Program/PHP4\\php_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Wed Sep 03 15:17:32 2008] [notice] Child 3584: Child process is running
+[Wed Sep 03 15:17:32 2008] [notice] Child 3584: Acquired the start mutex.
+[Wed Sep 03 15:17:32 2008] [notice] Child 3584: Starting 250 worker threads.
+[Wed Sep 03 15:17:32 2008] [notice] Child 3584: Starting thread to listen on port 80.
+[Wed Sep 03 15:40:37 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Wed Sep 03 15:40:37 2008] [notice] Child 3584: Exit event signaled. Child process is ending.
+[Wed Sep 03 15:40:38 2008] [notice] Child 3584: Released the start mutex
+[Wed Sep 03 15:40:39 2008] [notice] Child 3584: Waiting for 250 worker threads to exit.
+[Wed Sep 03 15:40:39 2008] [notice] Child 3584: All worker threads have exited.
+[Wed Sep 03 15:40:39 2008] [notice] Child 3584: Child process is exiting
+Failed loading D:/DedeAMPZ/Program/lib/ZendExtensionManager.dll
+[Wed Sep 03 15:40:39 2008] [notice] Parent: Child process exited successfully.
+[Wed Sep 03 15:40:42 2008] [notice] Apache/2.2.4 (Win32) PHP/4.4.4 configured -- resuming normal operations
+[Wed Sep 03 15:40:42 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Wed Sep 03 15:40:42 2008] [notice] Parent: Created child process 2784
+Warning: DocumentRoot [D:/DedeAMPZ/WebRoot/test.com/WebRoot] does not exist
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.102 for ServerName
+PHP Warning:  Unknown(): Unable to load dynamic library 'D:/DedeAMPZ/Program/PHP4\\php_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Wed Sep 03 15:40:42 2008] [notice] Child 2784: Child process is running
+[Wed Sep 03 15:40:42 2008] [notice] Child 2784: Acquired the start mutex.
+[Wed Sep 03 15:40:42 2008] [notice] Child 2784: Starting 250 worker threads.
+[Wed Sep 03 15:40:42 2008] [notice] Child 2784: Starting thread to listen on port 80.
+[Wed Sep 03 15:44:18 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Wed Sep 03 15:44:18 2008] [notice] Child 2784: Exit event signaled. Child process is ending.
+[Wed Sep 03 15:44:19 2008] [notice] Child 2784: Released the start mutex
+[Wed Sep 03 15:44:20 2008] [notice] Child 2784: Waiting for 250 worker threads to exit.
+[Wed Sep 03 15:44:20 2008] [notice] Child 2784: All worker threads have exited.
+[Wed Sep 03 15:44:20 2008] [notice] Child 2784: Child process is exiting
+Failed loading D:/DedeAMPZ/Program/lib/ZendExtensionManager.dll
+[Wed Sep 03 15:44:20 2008] [notice] Parent: Child process exited successfully.
+[Wed Sep 03 15:44:23 2008] [notice] Apache/2.2.4 (Win32) PHP/4.4.4 configured -- resuming normal operations
+[Wed Sep 03 15:44:23 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Wed Sep 03 15:44:23 2008] [notice] Parent: Created child process 4080
+Warning: DocumentRoot [D:/DedeAMPZ/WebRoot/test.com/WebRoot] does not exist
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.102 for ServerName
+PHP Warning:  Unknown(): Unable to load dynamic library 'D:/DedeAMPZ/Program/PHP4\\php_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Wed Sep 03 15:44:23 2008] [notice] Child 4080: Child process is running
+[Wed Sep 03 15:44:23 2008] [notice] Child 4080: Acquired the start mutex.
+[Wed Sep 03 15:44:23 2008] [notice] Child 4080: Starting 250 worker threads.
+[Wed Sep 03 15:44:23 2008] [notice] Child 4080: Starting thread to listen on port 80.
+[Wed Sep 03 15:45:20 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Wed Sep 03 15:45:20 2008] [notice] Child 4080: Exit event signaled. Child process is ending.
+[Wed Sep 03 15:45:21 2008] [notice] Child 4080: Released the start mutex
+[Wed Sep 03 15:45:22 2008] [notice] Child 4080: Waiting for 250 worker threads to exit.
+[Wed Sep 03 15:45:22 2008] [notice] Child 4080: All worker threads have exited.
+[Wed Sep 03 15:45:22 2008] [notice] Child 4080: Child process is exiting
+Failed loading D:/DedeAMPZ/Program/lib/ZendExtensionManager.dll
+[Wed Sep 03 15:45:23 2008] [notice] Parent: Child process exited successfully.
+[Wed Sep 03 15:45:25 2008] [notice] Apache/2.2.4 (Win32) PHP/4.4.4 configured -- resuming normal operations
+[Wed Sep 03 15:45:25 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Wed Sep 03 15:45:25 2008] [notice] Parent: Created child process 2912
+Warning: DocumentRoot [D:/DedeAMPZ/WebRoot/test.com/WebRoot] does not exist
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.102 for ServerName
+PHP Warning:  Unknown(): Unable to load dynamic library 'D:/DedeAMPZ/Program/PHP4\\php_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Wed Sep 03 15:45:25 2008] [notice] Child 2912: Child process is running
+[Wed Sep 03 15:45:25 2008] [notice] Child 2912: Acquired the start mutex.
+[Wed Sep 03 15:45:25 2008] [notice] Child 2912: Starting 250 worker threads.
+[Wed Sep 03 15:45:25 2008] [notice] Child 2912: Starting thread to listen on port 80.
+[Wed Sep 03 15:46:21 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Wed Sep 03 15:46:21 2008] [notice] Child 2912: Exit event signaled. Child process is ending.
+[Wed Sep 03 15:46:22 2008] [notice] Child 2912: Released the start mutex
+[Wed Sep 03 15:46:23 2008] [notice] Child 2912: Waiting for 250 worker threads to exit.
+[Wed Sep 03 15:46:23 2008] [notice] Child 2912: All worker threads have exited.
+[Wed Sep 03 15:46:23 2008] [notice] Child 2912: Child process is exiting
+Failed loading D:/DedeAMPZ/Program/lib/ZendExtensionManager.dll
+[Wed Sep 03 15:46:23 2008] [notice] Parent: Child process exited successfully.
+[Wed Sep 03 15:46:26 2008] [notice] Apache/2.2.4 (Win32) PHP/4.4.4 configured -- resuming normal operations
+[Wed Sep 03 15:46:26 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Wed Sep 03 15:46:26 2008] [notice] Parent: Created child process 3768
+Warning: DocumentRoot [D:/DedeAMPZ/WebRoot/test.com/WebRoot] does not exist
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.102 for ServerName
+PHP Warning:  Unknown(): Unable to load dynamic library 'D:/DedeAMPZ/Program/PHP4\\php_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Wed Sep 03 15:46:26 2008] [notice] Child 3768: Child process is running
+[Wed Sep 03 15:46:26 2008] [notice] Child 3768: Acquired the start mutex.
+[Wed Sep 03 15:46:26 2008] [notice] Child 3768: Starting 250 worker threads.
+[Wed Sep 03 15:46:26 2008] [notice] Child 3768: Starting thread to listen on port 80.
+[Wed Sep 03 15:47:25 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Wed Sep 03 15:47:25 2008] [notice] Child 3768: Exit event signaled. Child process is ending.
+[Wed Sep 03 15:47:26 2008] [notice] Child 3768: Released the start mutex
+[Wed Sep 03 15:47:27 2008] [notice] Child 3768: Waiting for 250 worker threads to exit.
+[Wed Sep 03 15:47:27 2008] [notice] Child 3768: All worker threads have exited.
+[Wed Sep 03 15:47:27 2008] [notice] Child 3768: Child process is exiting
+Failed loading D:/DedeAMPZ/Program/lib/ZendExtensionManager.dll
+[Wed Sep 03 15:47:27 2008] [notice] Parent: Child process exited successfully.
+[Wed Sep 03 15:47:30 2008] [notice] Apache/2.2.4 (Win32) PHP/4.4.4 configured -- resuming normal operations
+[Wed Sep 03 15:47:30 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Wed Sep 03 15:47:30 2008] [notice] Parent: Created child process 2840
+Warning: DocumentRoot [D:/DedeAMPZ/WebRoot/test.com/WebRoot] does not exist
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.102 for ServerName
+PHP Warning:  Unknown(): Unable to load dynamic library 'D:/DedeAMPZ/Program/PHP4\\php_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Wed Sep 03 15:47:30 2008] [notice] Child 2840: Child process is running
+[Wed Sep 03 15:47:30 2008] [notice] Child 2840: Acquired the start mutex.
+[Wed Sep 03 15:47:30 2008] [notice] Child 2840: Starting 250 worker threads.
+[Wed Sep 03 15:47:30 2008] [notice] Child 2840: Starting thread to listen on port 80.
+[Wed Sep 03 15:48:38 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Wed Sep 03 15:48:38 2008] [notice] Child 2840: Exit event signaled. Child process is ending.
+[Wed Sep 03 15:48:39 2008] [notice] Child 2840: Released the start mutex
+[Wed Sep 03 15:48:40 2008] [notice] Child 2840: Waiting for 250 worker threads to exit.
+[Wed Sep 03 15:48:40 2008] [notice] Child 2840: All worker threads have exited.
+[Wed Sep 03 15:48:40 2008] [notice] Child 2840: Child process is exiting
+Failed loading D:/DedeAMPZ/Program/lib/ZendExtensionManager.dll
+[Wed Sep 03 15:48:40 2008] [notice] Parent: Child process exited successfully.
+[Wed Sep 03 15:48:43 2008] [notice] Apache/2.2.4 (Win32) PHP/4.4.4 configured -- resuming normal operations
+[Wed Sep 03 15:48:43 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Wed Sep 03 15:48:43 2008] [notice] Parent: Created child process 3048
+Warning: DocumentRoot [D:/DedeAMPZ/WebRoot/test.com/WebRoot] does not exist
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.102 for ServerName
+PHP Warning:  Unknown(): Unable to load dynamic library 'D:/DedeAMPZ/Program/PHP4\\php_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Wed Sep 03 15:48:43 2008] [notice] Child 3048: Child process is running
+[Wed Sep 03 15:48:43 2008] [notice] Child 3048: Acquired the start mutex.
+[Wed Sep 03 15:48:43 2008] [notice] Child 3048: Starting 250 worker threads.
+[Wed Sep 03 15:48:43 2008] [notice] Child 3048: Starting thread to listen on port 80.
+[Wed Sep 03 15:50:09 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Wed Sep 03 15:50:09 2008] [notice] Child 3048: Exit event signaled. Child process is ending.
+[Wed Sep 03 15:50:10 2008] [notice] Child 3048: Released the start mutex
+[Wed Sep 03 15:50:11 2008] [notice] Child 3048: Waiting for 250 worker threads to exit.
+[Wed Sep 03 15:50:11 2008] [notice] Child 3048: All worker threads have exited.
+[Wed Sep 03 15:50:11 2008] [notice] Child 3048: Child process is exiting
+Failed loading D:/DedeAMPZ/Program/lib/ZendExtensionManager.dll
+[Wed Sep 03 15:50:11 2008] [notice] Parent: Child process exited successfully.
+[Wed Sep 03 15:50:14 2008] [notice] Apache/2.2.4 (Win32) PHP/4.4.4 configured -- resuming normal operations
+[Wed Sep 03 15:50:14 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Wed Sep 03 15:50:14 2008] [notice] Parent: Created child process 1788
+Warning: DocumentRoot [D:/DedeAMPZ/WebRoot/test.com/WebRoot] does not exist
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.102 for ServerName
+PHP Warning:  Unknown(): Unable to load dynamic library 'D:/DedeAMPZ/Program/PHP4\\php_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Wed Sep 03 15:50:14 2008] [notice] Child 1788: Child process is running
+[Wed Sep 03 15:50:14 2008] [notice] Child 1788: Acquired the start mutex.
+[Wed Sep 03 15:50:14 2008] [notice] Child 1788: Starting 250 worker threads.
+[Wed Sep 03 15:50:14 2008] [notice] Child 1788: Starting thread to listen on port 80.
+[Wed Sep 03 15:51:10 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Wed Sep 03 15:51:10 2008] [notice] Child 1788: Exit event signaled. Child process is ending.
+[Wed Sep 03 15:51:11 2008] [notice] Child 1788: Released the start mutex
+[Wed Sep 03 15:51:12 2008] [notice] Child 1788: Waiting for 250 worker threads to exit.
+[Wed Sep 03 15:51:12 2008] [notice] Child 1788: All worker threads have exited.
+[Wed Sep 03 15:51:12 2008] [notice] Child 1788: Child process is exiting
+Failed loading D:/DedeAMPZ/Program/lib/ZendExtensionManager.dll
+[Wed Sep 03 15:51:12 2008] [notice] Parent: Child process exited successfully.
+[Wed Sep 03 15:51:14 2008] [notice] Apache/2.2.4 (Win32) PHP/4.4.4 configured -- resuming normal operations
+[Wed Sep 03 15:51:14 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Wed Sep 03 15:51:14 2008] [notice] Parent: Created child process 2740
+Warning: DocumentRoot [D:/DedeAMPZ/WebRoot/test.com/WebRoot] does not exist
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.102 for ServerName
+PHP Warning:  Unknown(): Unable to load dynamic library 'D:/DedeAMPZ/Program/PHP4\\php_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Wed Sep 03 15:51:14 2008] [notice] Child 2740: Child process is running
+[Wed Sep 03 15:51:14 2008] [notice] Child 2740: Acquired the start mutex.
+[Wed Sep 03 15:51:14 2008] [notice] Child 2740: Starting 250 worker threads.
+[Wed Sep 03 15:51:14 2008] [notice] Child 2740: Starting thread to listen on port 80.
+[Wed Sep 03 15:52:40 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Wed Sep 03 15:52:40 2008] [notice] Child 2740: Exit event signaled. Child process is ending.
+[Wed Sep 03 15:52:41 2008] [notice] Child 2740: Released the start mutex
+[Wed Sep 03 15:52:42 2008] [notice] Child 2740: Waiting for 250 worker threads to exit.
+[Wed Sep 03 15:52:42 2008] [notice] Child 2740: All worker threads have exited.
+[Wed Sep 03 15:52:42 2008] [notice] Child 2740: Child process is exiting
+Failed loading D:/DedeAMPZ/Program/lib/ZendExtensionManager.dll
+[Wed Sep 03 15:52:42 2008] [notice] Parent: Child process exited successfully.
+[Wed Sep 03 15:52:45 2008] [notice] Apache/2.2.4 (Win32) PHP/4.4.4 configured -- resuming normal operations
+[Wed Sep 03 15:52:45 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Wed Sep 03 15:52:45 2008] [notice] Parent: Created child process 740
+Warning: DocumentRoot [D:/DedeAMPZ/WebRoot/test.com/WebRoot] does not exist
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.102 for ServerName
+PHP Warning:  Unknown(): Unable to load dynamic library 'D:/DedeAMPZ/Program/PHP4\\php_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Wed Sep 03 15:52:45 2008] [notice] Child 740: Child process is running
+[Wed Sep 03 15:52:45 2008] [notice] Child 740: Acquired the start mutex.
+[Wed Sep 03 15:52:45 2008] [notice] Child 740: Starting 250 worker threads.
+[Wed Sep 03 15:52:45 2008] [notice] Child 740: Starting thread to listen on port 80.
+[Wed Sep 03 16:00:54 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Wed Sep 03 16:00:54 2008] [notice] Child 740: Exit event signaled. Child process is ending.
+[Wed Sep 03 16:00:55 2008] [notice] Child 740: Released the start mutex
+[Wed Sep 03 16:00:56 2008] [notice] Child 740: Waiting for 250 worker threads to exit.
+[Wed Sep 03 16:00:56 2008] [notice] Child 740: All worker threads have exited.
+[Wed Sep 03 16:00:56 2008] [notice] Child 740: Child process is exiting
+Failed loading D:/DedeAMPZ/Program/lib/ZendExtensionManager.dll
+[Wed Sep 03 16:00:56 2008] [notice] Parent: Child process exited successfully.
+[Wed Sep 03 16:01:01 2008] [notice] Apache/2.2.4 (Win32) PHP/5.2.4 configured -- resuming normal operations
+[Wed Sep 03 16:01:01 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Wed Sep 03 16:01:01 2008] [notice] Parent: Created child process 2348
+Warning: DocumentRoot [D:/DedeAMPZ/WebRoot/test.com/WebRoot] does not exist
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.102 for ServerName
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_mysql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mysql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Wed Sep 03 16:01:01 2008] [notice] Child 2348: Child process is running
+[Wed Sep 03 16:01:01 2008] [notice] Child 2348: Acquired the start mutex.
+[Wed Sep 03 16:01:01 2008] [notice] Child 2348: Starting 250 worker threads.
+[Wed Sep 03 16:01:01 2008] [notice] Child 2348: Starting thread to listen on port 80.
+[Wed Sep 03 16:02:46 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Wed Sep 03 16:02:46 2008] [notice] Child 2348: Exit event signaled. Child process is ending.
+[Wed Sep 03 16:02:47 2008] [notice] Child 2348: Released the start mutex
+[Wed Sep 03 16:02:48 2008] [notice] Child 2348: Waiting for 250 worker threads to exit.
+[Wed Sep 03 16:02:48 2008] [notice] Child 2348: All worker threads have exited.
+[Wed Sep 03 16:02:48 2008] [notice] Child 2348: Child process is exiting
+[Wed Sep 03 16:02:48 2008] [notice] Parent: Child process exited successfully.
+[Wed Sep 03 16:02:50 2008] [notice] Apache/2.2.4 (Win32) PHP/5.2.4 configured -- resuming normal operations
+[Wed Sep 03 16:02:50 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Wed Sep 03 16:02:50 2008] [notice] Parent: Created child process 3332
+Warning: DocumentRoot [D:/DedeAMPZ/WebRoot/test.com/WebRoot] does not exist
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.102 for ServerName
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_mysql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mysql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Wed Sep 03 16:02:50 2008] [notice] Child 3332: Child process is running
+[Wed Sep 03 16:02:50 2008] [notice] Child 3332: Acquired the start mutex.
+[Wed Sep 03 16:02:50 2008] [notice] Child 3332: Starting 250 worker threads.
+[Wed Sep 03 16:02:50 2008] [notice] Child 3332: Starting thread to listen on port 80.
+[Wed Sep 03 16:03:51 2008] [notice] Parent: Received restart signal -- Restarting the server.
+[Wed Sep 03 16:03:51 2008] [notice] Child 3332: Exit event signaled. Child process is ending.
+[Wed Sep 03 16:03:51 2008] [notice] Apache/2.2.4 (Win32) PHP/5.2.4 configured -- resuming normal operations
+[Wed Sep 03 16:03:51 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Wed Sep 03 16:03:51 2008] [notice] Parent: Created child process 652
+Warning: DocumentRoot [D:/DedeAMPZ/WebRoot/test.com/WebRoot] does not exist
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.102 for ServerName
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Wed Sep 03 16:03:51 2008] [notice] Child 652: Child process is running
+[Wed Sep 03 16:03:52 2008] [notice] Child 3332: Released the start mutex
+[Wed Sep 03 16:03:52 2008] [notice] Child 652: Acquired the start mutex.
+[Wed Sep 03 16:03:52 2008] [notice] Child 652: Starting 250 worker threads.
+[Wed Sep 03 16:03:52 2008] [notice] Child 652: Starting thread to listen on port 80.
+[Wed Sep 03 16:03:53 2008] [notice] Child 3332: Waiting for 250 worker threads to exit.
+[Wed Sep 03 16:03:53 2008] [notice] Child 3332: All worker threads have exited.
+[Wed Sep 03 16:03:53 2008] [notice] Child 3332: Child process is exiting
+[Wed Sep 03 16:10:26 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Wed Sep 03 16:10:26 2008] [notice] Child 652: Exit event signaled. Child process is ending.
+[Wed Sep 03 16:10:27 2008] [notice] Child 652: Released the start mutex
+[Wed Sep 03 16:10:28 2008] [notice] Child 652: Waiting for 250 worker threads to exit.
+[Wed Sep 03 16:10:28 2008] [notice] Child 652: All worker threads have exited.
+[Wed Sep 03 16:10:28 2008] [notice] Child 652: Child process is exiting
+[Wed Sep 03 16:10:28 2008] [notice] Parent: Child process exited successfully.
+PHP Warning:  Unknown(): Unable to load dynamic library 'D:/DedeAMPZ/Program/PHP4\\php_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Wed Sep 03 16:10:31 2008] [notice] Apache/2.2.4 (Win32) PHP/4.4.4 configured -- resuming normal operations
+[Wed Sep 03 16:10:31 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Wed Sep 03 16:10:31 2008] [notice] Parent: Created child process 2552
+Warning: DocumentRoot [D:/DedeAMPZ/WebRoot/test.com/WebRoot] does not exist
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.102 for ServerName
+PHP Warning:  Unknown(): Unable to load dynamic library 'D:/DedeAMPZ/Program/PHP4\\php_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Wed Sep 03 16:10:31 2008] [notice] Child 2552: Child process is running
+[Wed Sep 03 16:10:31 2008] [notice] Child 2552: Acquired the start mutex.
+[Wed Sep 03 16:10:31 2008] [notice] Child 2552: Starting 250 worker threads.
+[Wed Sep 03 16:10:31 2008] [notice] Child 2552: Starting thread to listen on port 80.
+[Wed Sep 03 16:14:35 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Wed Sep 03 16:14:35 2008] [notice] Child 2552: Exit event signaled. Child process is ending.
+[Wed Sep 03 16:14:36 2008] [notice] Child 2552: Released the start mutex
+[Wed Sep 03 16:14:37 2008] [notice] Child 2552: Waiting for 250 worker threads to exit.
+[Wed Sep 03 16:14:37 2008] [notice] Child 2552: All worker threads have exited.
+[Wed Sep 03 16:14:37 2008] [notice] Child 2552: Child process is exiting
+Failed loading D:/DedeAMPZ/Program/lib/ZendExtensionManager.dll
+[Wed Sep 03 16:14:37 2008] [notice] Parent: Child process exited successfully.
+[Wed Sep 03 16:14:40 2008] [notice] Apache/2.2.4 (Win32) PHP/4.4.4 configured -- resuming normal operations
+[Wed Sep 03 16:14:40 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Wed Sep 03 16:14:40 2008] [notice] Parent: Created child process 4024
+Warning: DocumentRoot [D:/DedeAMPZ/WebRoot/test.com/WebRoot] does not exist
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.102 for ServerName
+PHP Warning:  Unknown(): Unable to load dynamic library 'D:/DedeAMPZ/Program/PHP4\\php_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Wed Sep 03 16:14:40 2008] [notice] Child 4024: Child process is running
+[Wed Sep 03 16:14:40 2008] [notice] Child 4024: Acquired the start mutex.
+[Wed Sep 03 16:14:40 2008] [notice] Child 4024: Starting 250 worker threads.
+[Wed Sep 03 16:14:40 2008] [notice] Child 4024: Starting thread to listen on port 80.
+[Wed Sep 03 16:15:52 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Wed Sep 03 16:15:52 2008] [notice] Child 4024: Exit event signaled. Child process is ending.
+[Wed Sep 03 16:15:53 2008] [notice] Child 4024: Released the start mutex
+[Wed Sep 03 16:15:54 2008] [notice] Child 4024: Waiting for 250 worker threads to exit.
+[Wed Sep 03 16:15:54 2008] [notice] Child 4024: All worker threads have exited.
+[Wed Sep 03 16:15:54 2008] [notice] Child 4024: Child process is exiting
+Failed loading D:/DedeAMPZ/Program/lib/ZendExtensionManager.dll
+[Wed Sep 03 16:15:55 2008] [notice] Parent: Child process exited successfully.
+[Wed Sep 03 16:15:57 2008] [notice] Apache/2.2.4 (Win32) PHP/5.2.4 configured -- resuming normal operations
+[Wed Sep 03 16:15:57 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Wed Sep 03 16:15:57 2008] [notice] Parent: Created child process 2316
+Warning: DocumentRoot [D:/DedeAMPZ/WebRoot/test.com/WebRoot] does not exist
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.102 for ServerName
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Wed Sep 03 16:15:57 2008] [notice] Child 2316: Child process is running
+[Wed Sep 03 16:15:57 2008] [notice] Child 2316: Acquired the start mutex.
+[Wed Sep 03 16:15:57 2008] [notice] Child 2316: Starting 250 worker threads.
+[Wed Sep 03 16:15:57 2008] [notice] Child 2316: Starting thread to listen on port 80.
+[Wed Sep 03 16:17:33 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Wed Sep 03 16:17:33 2008] [notice] Child 2316: Exit event signaled. Child process is ending.
+[Wed Sep 03 16:17:34 2008] [notice] Child 2316: Released the start mutex
+[Wed Sep 03 16:17:35 2008] [notice] Child 2316: Waiting for 250 worker threads to exit.
+[Wed Sep 03 16:17:35 2008] [notice] Child 2316: All worker threads have exited.
+[Wed Sep 03 16:17:35 2008] [notice] Child 2316: Child process is exiting
+[Wed Sep 03 16:17:36 2008] [notice] Parent: Child process exited successfully.
+[Wed Sep 03 16:44:45 2008] [notice] Apache/2.2.4 (Win32) PHP/5.2.4 configured -- resuming normal operations
+[Wed Sep 03 16:44:45 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Wed Sep 03 16:44:45 2008] [notice] Parent: Created child process 384
+Warning: DocumentRoot [D:/DedeAMPZ/WebRoot/test.com/WebRoot] does not exist
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.102 for ServerName
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Wed Sep 03 16:44:45 2008] [notice] Child 384: Child process is running
+[Wed Sep 03 16:44:45 2008] [notice] Child 384: Acquired the start mutex.
+[Wed Sep 03 16:44:45 2008] [notice] Child 384: Starting 250 worker threads.
+[Wed Sep 03 16:44:45 2008] [notice] Child 384: Starting thread to listen on port 80.
+[Wed Sep 03 18:17:36 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Wed Sep 03 18:17:36 2008] [notice] Child 384: Exit event signaled. Child process is ending.
+[Wed Sep 03 18:17:37 2008] [notice] Child 384: Released the start mutex
+[Wed Sep 03 18:17:38 2008] [notice] Child 384: Waiting for 250 worker threads to exit.
+[Wed Sep 03 18:17:38 2008] [notice] Child 384: All worker threads have exited.
+[Wed Sep 03 18:17:38 2008] [notice] Child 384: Child process is exiting
+[Wed Sep 03 18:17:38 2008] [notice] Parent: Child process exited successfully.
+[Thu Sep 04 09:35:43 2008] [notice] Apache/2.2.4 (Win32) PHP/5.2.4 configured -- resuming normal operations
+[Thu Sep 04 09:35:43 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Thu Sep 04 09:35:43 2008] [notice] Parent: Created child process 3920
+Warning: DocumentRoot [D:/DedeAMPZ/WebRoot/test.com/WebRoot] does not exist
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.102 for ServerName
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Thu Sep 04 09:35:43 2008] [notice] Child 3920: Child process is running
+[Thu Sep 04 09:35:43 2008] [notice] Child 3920: Acquired the start mutex.
+[Thu Sep 04 09:35:43 2008] [notice] Child 3920: Starting 250 worker threads.
+[Thu Sep 04 09:35:43 2008] [notice] Child 3920: Starting thread to listen on port 80.
+[Thu Sep 04 10:04:16 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Sep 04 10:04:16 2008] [notice] Child 3920: Exit event signaled. Child process is ending.
+[Thu Sep 04 10:04:17 2008] [notice] Child 3920: Released the start mutex
+[Thu Sep 04 10:04:18 2008] [notice] Child 3920: Waiting for 250 worker threads to exit.
+[Thu Sep 04 10:04:18 2008] [notice] Child 3920: All worker threads have exited.
+[Thu Sep 04 10:04:18 2008] [notice] Child 3920: Child process is exiting
+[Thu Sep 04 10:04:18 2008] [notice] Parent: Child process exited successfully.
+[Thu Sep 04 10:04:23 2008] [notice] Apache/2.2.4 (Win32) PHP/4.4.4 configured -- resuming normal operations
+[Thu Sep 04 10:04:23 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Thu Sep 04 10:04:23 2008] [notice] Parent: Created child process 1804
+Warning: DocumentRoot [D:/DedeAMPZ/WebRoot/test.com/WebRoot] does not exist
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.102 for ServerName
+PHP Warning:  Unknown(): Unable to load dynamic library 'D:/DedeAMPZ/Program/PHP4\\php_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Thu Sep 04 10:04:23 2008] [notice] Child 1804: Child process is running
+[Thu Sep 04 10:04:23 2008] [notice] Child 1804: Acquired the start mutex.
+[Thu Sep 04 10:04:23 2008] [notice] Child 1804: Starting 250 worker threads.
+[Thu Sep 04 10:04:23 2008] [notice] Child 1804: Starting thread to listen on port 80.
+[Thu Sep 04 10:12:38 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Sep 04 10:12:38 2008] [notice] Child 1804: Exit event signaled. Child process is ending.
+[Thu Sep 04 10:12:39 2008] [notice] Child 1804: Released the start mutex
+[Thu Sep 04 10:12:40 2008] [notice] Child 1804: Waiting for 250 worker threads to exit.
+[Thu Sep 04 10:12:40 2008] [notice] Child 1804: All worker threads have exited.
+[Thu Sep 04 10:12:40 2008] [notice] Child 1804: Child process is exiting
+Failed loading D:/DedeAMPZ/Program/lib/ZendExtensionManager.dll
+[Thu Sep 04 10:12:40 2008] [notice] Parent: Child process exited successfully.
+[Thu Sep 04 10:12:52 2008] [notice] Apache/2.2.4 (Win32) PHP/5.2.4 configured -- resuming normal operations
+[Thu Sep 04 10:12:52 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Thu Sep 04 10:12:52 2008] [notice] Parent: Created child process 544
+Warning: DocumentRoot [D:/DedeAMPZ/WebRoot/test.com/WebRoot] does not exist
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.102 for ServerName
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Thu Sep 04 10:12:52 2008] [notice] Child 544: Child process is running
+[Thu Sep 04 10:12:52 2008] [notice] Child 544: Acquired the start mutex.
+[Thu Sep 04 10:12:52 2008] [notice] Child 544: Starting 250 worker threads.
+[Thu Sep 04 10:12:52 2008] [notice] Child 544: Starting thread to listen on port 80.
+[Thu Sep 04 10:14:05 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Sep 04 10:14:05 2008] [notice] Child 544: Exit event signaled. Child process is ending.
+[Thu Sep 04 10:14:06 2008] [notice] Child 544: Released the start mutex
+[Thu Sep 04 10:14:07 2008] [notice] Child 544: Waiting for 250 worker threads to exit.
+[Thu Sep 04 10:14:07 2008] [notice] Child 544: All worker threads have exited.
+[Thu Sep 04 10:14:07 2008] [notice] Child 544: Child process is exiting
+[Thu Sep 04 10:14:07 2008] [notice] Parent: Child process exited successfully.
+[Thu Sep 04 10:14:24 2008] [notice] Apache/2.2.4 (Win32) PHP/4.4.4 configured -- resuming normal operations
+[Thu Sep 04 10:14:24 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Thu Sep 04 10:14:24 2008] [notice] Parent: Created child process 2552
+Warning: DocumentRoot [D:/DedeAMPZ/WebRoot/test.com/WebRoot] does not exist
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.102 for ServerName
+PHP Warning:  Unknown(): Unable to load dynamic library 'D:/DedeAMPZ/Program/PHP4\\php_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Thu Sep 04 10:14:24 2008] [notice] Child 2552: Child process is running
+[Thu Sep 04 10:14:24 2008] [notice] Child 2552: Acquired the start mutex.
+[Thu Sep 04 10:14:24 2008] [notice] Child 2552: Starting 250 worker threads.
+[Thu Sep 04 10:14:24 2008] [notice] Child 2552: Starting thread to listen on port 80.
+[Thu Sep 04 12:48:14 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Sep 04 12:48:14 2008] [notice] Child 2552: Exit event signaled. Child process is ending.
+[Thu Sep 04 12:48:15 2008] [notice] Child 2552: Released the start mutex
+[Thu Sep 04 12:48:16 2008] [notice] Child 2552: Waiting for 250 worker threads to exit.
+[Thu Sep 04 12:48:16 2008] [notice] Child 2552: All worker threads have exited.
+[Thu Sep 04 12:48:16 2008] [notice] Child 2552: Child process is exiting
+Failed loading D:/DedeAMPZ/Program/lib/ZendExtensionManager.dll
+[Thu Sep 04 12:48:16 2008] [notice] Parent: Child process exited successfully.
+[Thu Sep 04 12:48:29 2008] [notice] Apache/2.2.4 (Win32) PHP/4.4.4 configured -- resuming normal operations
+[Thu Sep 04 12:48:29 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Thu Sep 04 12:48:29 2008] [notice] Parent: Created child process 3432
+Warning: DocumentRoot [D:/DedeAMPZ/Program/WebRoot/Default] does not exist
+Warning: DocumentRoot [D:/DedeAMPZ/Program/WebRoot/test.com/WebRoot] does not exist
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.102 for ServerName
+PHP Warning:  Unknown(): Unable to load dynamic library 'D:/DedeAMPZ/Program/PHP4\\php_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Thu Sep 04 12:48:29 2008] [notice] Child 3432: Child process is running
+[Thu Sep 04 12:48:29 2008] [notice] Child 3432: Acquired the start mutex.
+[Thu Sep 04 12:48:29 2008] [notice] Child 3432: Starting 250 worker threads.
+[Thu Sep 04 12:48:29 2008] [notice] Child 3432: Starting thread to listen on port 80.
+[Thu Sep 04 12:51:32 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Sep 04 12:51:32 2008] [notice] Child 3432: Exit event signaled. Child process is ending.
+[Thu Sep 04 12:51:33 2008] [notice] Child 3432: Released the start mutex
+[Thu Sep 04 12:51:34 2008] [notice] Child 3432: Waiting for 250 worker threads to exit.
+[Thu Sep 04 12:51:34 2008] [notice] Child 3432: All worker threads have exited.
+[Thu Sep 04 12:51:34 2008] [notice] Child 3432: Child process is exiting
+Failed loading D:/DedeAMPZ/Program/lib/ZendExtensionManager.dll
+[Thu Sep 04 12:51:34 2008] [notice] Parent: Child process exited successfully.
+PHP Warning:  Unknown(): Unable to load dynamic library 'D:/DedeAMPZ/Program/PHP4\\php_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Thu Sep 04 12:51:41 2008] [notice] Apache/2.2.4 (Win32) PHP/4.4.4 configured -- resuming normal operations
+[Thu Sep 04 12:51:41 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Thu Sep 04 12:51:41 2008] [notice] Parent: Created child process 3744
+Warning: DocumentRoot [D:/DedeAMPZ/Program/WebRoot/Default] does not exist
+Warning: DocumentRoot [D:/DedeAMPZ/Program/WebRoot/test.com/WebRoot] does not exist
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.102 for ServerName
+PHP Warning:  Unknown(): Unable to load dynamic library 'D:/DedeAMPZ/Program/PHP4\\php_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Thu Sep 04 12:51:42 2008] [notice] Child 3744: Child process is running
+[Thu Sep 04 12:51:42 2008] [notice] Child 3744: Acquired the start mutex.
+[Thu Sep 04 12:51:42 2008] [notice] Child 3744: Starting 250 worker threads.
+[Thu Sep 04 12:51:42 2008] [notice] Child 3744: Starting thread to listen on port 80.
+[Thu Sep 04 12:54:03 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Sep 04 12:54:03 2008] [notice] Child 3744: Exit event signaled. Child process is ending.
+[Thu Sep 04 12:54:04 2008] [notice] Child 3744: Released the start mutex
+[Thu Sep 04 12:54:05 2008] [notice] Child 3744: Waiting for 250 worker threads to exit.
+[Thu Sep 04 12:54:05 2008] [notice] Child 3744: All worker threads have exited.
+[Thu Sep 04 12:54:05 2008] [notice] Child 3744: Child process is exiting
+Failed loading D:/DedeAMPZ/Program/lib/ZendExtensionManager.dll
+[Thu Sep 04 12:54:05 2008] [notice] Parent: Child process exited successfully.
+[Thu Sep 04 12:54:14 2008] [notice] Apache/2.2.4 (Win32) PHP/4.4.4 configured -- resuming normal operations
+[Thu Sep 04 12:54:14 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Thu Sep 04 12:54:15 2008] [notice] Parent: Created child process 1752
+Warning: DocumentRoot [D:/DedeAMPZ/Program/WebRoot/Default] does not exist
+Warning: DocumentRoot [D:/DedeAMPZ/Program/WebRoot/test.com/WebRoot] does not exist
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.102 for ServerName
+PHP Warning:  Unknown(): Unable to load dynamic library 'D:/DedeAMPZ/Program/PHP4\\php_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Thu Sep 04 12:54:15 2008] [notice] Child 1752: Child process is running
+[Thu Sep 04 12:54:15 2008] [notice] Child 1752: Acquired the start mutex.
+[Thu Sep 04 12:54:15 2008] [notice] Child 1752: Starting 250 worker threads.
+[Thu Sep 04 12:54:15 2008] [notice] Child 1752: Starting thread to listen on port 80.
+[Thu Sep 04 12:56:46 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Sep 04 12:56:46 2008] [notice] Child 1752: Exit event signaled. Child process is ending.
+[Thu Sep 04 12:56:47 2008] [notice] Child 1752: Released the start mutex
+[Thu Sep 04 12:56:48 2008] [notice] Child 1752: Waiting for 250 worker threads to exit.
+[Thu Sep 04 12:56:48 2008] [notice] Child 1752: All worker threads have exited.
+[Thu Sep 04 12:56:48 2008] [notice] Child 1752: Child process is exiting
+Failed loading D:/DedeAMPZ/Program/lib/ZendExtensionManager.dll
+[Thu Sep 04 12:56:49 2008] [notice] Parent: Child process exited successfully.
+[Thu Sep 04 12:56:56 2008] [notice] Apache/2.2.4 (Win32) PHP/4.4.4 configured -- resuming normal operations
+[Thu Sep 04 12:56:56 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Thu Sep 04 12:56:56 2008] [notice] Parent: Created child process 2228
+Warning: DocumentRoot [D:/DedeAMPZ/Program/WebRoot/Default] does not exist
+Warning: DocumentRoot [D:/DedeAMPZ/Program/WebRoot/test.com/WebRoot] does not exist
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.102 for ServerName
+PHP Warning:  Unknown(): Unable to load dynamic library 'D:/DedeAMPZ/Program/PHP4\\php_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Thu Sep 04 12:56:56 2008] [notice] Child 2228: Child process is running
+[Thu Sep 04 12:56:56 2008] [notice] Child 2228: Acquired the start mutex.
+[Thu Sep 04 12:56:56 2008] [notice] Child 2228: Starting 250 worker threads.
+[Thu Sep 04 12:56:56 2008] [notice] Child 2228: Starting thread to listen on port 80.
+[Thu Sep 04 13:49:47 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Sep 04 13:49:47 2008] [notice] Child 2228: Exit event signaled. Child process is ending.
+[Thu Sep 04 13:49:48 2008] [notice] Child 2228: Released the start mutex
+[Thu Sep 04 13:49:49 2008] [notice] Child 2228: Waiting for 250 worker threads to exit.
+[Thu Sep 04 13:49:49 2008] [notice] Child 2228: All worker threads have exited.
+[Thu Sep 04 13:49:49 2008] [notice] Child 2228: Child process is exiting
+Failed loading D:/DedeAMPZ/Program/lib/ZendExtensionManager.dll
+[Thu Sep 04 13:49:49 2008] [notice] Parent: Child process exited successfully.
+[Thu Sep 04 13:50:09 2008] [notice] Apache/2.2.4 (Win32) PHP/4.4.4 configured -- resuming normal operations
+[Thu Sep 04 13:50:09 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Thu Sep 04 13:50:09 2008] [notice] Parent: Created child process 2948
+Warning: DocumentRoot [D:/DedeAMPZ/Program/WebRoot/Default] does not exist
+Warning: DocumentRoot [D:/DedeAMPZ/Program/WebRoot/test.com/WebRoot] does not exist
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.102 for ServerName
+PHP Warning:  Unknown(): Unable to load dynamic library 'D:/DedeAMPZ/Program/PHP4\\php_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Thu Sep 04 13:50:09 2008] [notice] Child 2948: Child process is running
+[Thu Sep 04 13:50:09 2008] [notice] Child 2948: Acquired the start mutex.
+[Thu Sep 04 13:50:09 2008] [notice] Child 2948: Starting 250 worker threads.
+[Thu Sep 04 13:50:09 2008] [notice] Child 2948: Starting thread to listen on port 80.
+[Thu Sep 04 13:51:02 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Sep 04 13:51:02 2008] [notice] Child 2948: Exit event signaled. Child process is ending.
+[Thu Sep 04 13:51:03 2008] [notice] Child 2948: Released the start mutex
+[Thu Sep 04 13:51:04 2008] [notice] Child 2948: Waiting for 250 worker threads to exit.
+[Thu Sep 04 13:51:04 2008] [notice] Child 2948: All worker threads have exited.
+[Thu Sep 04 13:51:04 2008] [notice] Child 2948: Child process is exiting
+Failed loading D:/DedeAMPZ/Program/lib/ZendExtensionManager.dll
+[Thu Sep 04 13:51:04 2008] [notice] Parent: Child process exited successfully.
+[Thu Sep 04 13:51:14 2008] [notice] Apache/2.2.4 (Win32) PHP/4.4.4 configured -- resuming normal operations
+[Thu Sep 04 13:51:14 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Thu Sep 04 13:51:14 2008] [notice] Parent: Created child process 3928
+Warning: DocumentRoot [D:/DedeAMPZ/Program/WebRoot/Default] does not exist
+Warning: DocumentRoot [D:/DedeAMPZ/Program/WebRoot/test.com/WebRoot] does not exist
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.102 for ServerName
+PHP Warning:  Unknown(): Unable to load dynamic library 'D:/DedeAMPZ/Program/PHP4\\php_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Thu Sep 04 13:51:14 2008] [notice] Child 3928: Child process is running
+[Thu Sep 04 13:51:14 2008] [notice] Child 3928: Acquired the start mutex.
+[Thu Sep 04 13:51:14 2008] [notice] Child 3928: Starting 250 worker threads.
+[Thu Sep 04 13:51:14 2008] [notice] Child 3928: Starting thread to listen on port 80.
+[Thu Sep 04 14:16:50 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Sep 04 14:16:50 2008] [notice] Child 3928: Exit event signaled. Child process is ending.
+[Thu Sep 04 14:16:51 2008] [notice] Child 3928: Released the start mutex
+[Thu Sep 04 14:16:52 2008] [notice] Child 3928: Waiting for 250 worker threads to exit.
+[Thu Sep 04 14:16:52 2008] [notice] Child 3928: All worker threads have exited.
+[Thu Sep 04 14:16:52 2008] [notice] Child 3928: Child process is exiting
+Failed loading D:/DedeAMPZ/Program/lib/ZendExtensionManager.dll
+[Thu Sep 04 14:16:52 2008] [notice] Parent: Child process exited successfully.
+[Thu Sep 04 14:22:02 2008] [notice] Apache/2.2.4 (Win32) PHP/5.2.4 configured -- resuming normal operations
+[Thu Sep 04 14:22:02 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Thu Sep 04 14:22:02 2008] [notice] Parent: Created child process 4060
+Warning: DocumentRoot [D:/DedeAMPZ/WebRoot/test.com/WebRoot] does not exist
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.102 for ServerName
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Thu Sep 04 14:22:02 2008] [notice] Child 4060: Child process is running
+[Thu Sep 04 14:22:02 2008] [notice] Child 4060: Acquired the start mutex.
+[Thu Sep 04 14:22:02 2008] [notice] Child 4060: Starting 250 worker threads.
+[Thu Sep 04 14:22:02 2008] [notice] Child 4060: Starting thread to listen on port 80.
+[Thu Sep 04 14:22:51 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Sep 04 14:22:51 2008] [notice] Child 4060: Exit event signaled. Child process is ending.
+[Thu Sep 04 14:22:52 2008] [notice] Child 4060: Released the start mutex
+[Thu Sep 04 14:22:53 2008] [notice] Child 4060: Waiting for 250 worker threads to exit.
+[Thu Sep 04 14:22:53 2008] [notice] Child 4060: All worker threads have exited.
+[Thu Sep 04 14:22:53 2008] [notice] Child 4060: Child process is exiting
+[Thu Sep 04 14:22:53 2008] [notice] Parent: Child process exited successfully.
+[Thu Sep 04 14:31:07 2008] [notice] Apache/2.2.4 (Win32) PHP/5.2.4 configured -- resuming normal operations
+[Thu Sep 04 14:31:07 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Thu Sep 04 14:31:07 2008] [notice] Parent: Created child process 2080
+Warning: DocumentRoot [D:/DedeAMPZ/WebRoot/test.com/WebRoot] does not exist
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.102 for ServerName
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Thu Sep 04 14:31:07 2008] [notice] Child 2080: Child process is running
+[Thu Sep 04 14:31:07 2008] [notice] Child 2080: Acquired the start mutex.
+[Thu Sep 04 14:31:07 2008] [notice] Child 2080: Starting 250 worker threads.
+[Thu Sep 04 14:31:07 2008] [notice] Child 2080: Starting thread to listen on port 80.
+[Thu Sep 04 14:31:30 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Sep 04 14:31:30 2008] [notice] Child 2080: Exit event signaled. Child process is ending.
+[Thu Sep 04 14:31:31 2008] [notice] Child 2080: Released the start mutex
+[Thu Sep 04 14:31:32 2008] [notice] Child 2080: Waiting for 250 worker threads to exit.
+[Thu Sep 04 14:31:32 2008] [notice] Child 2080: All worker threads have exited.
+[Thu Sep 04 14:31:32 2008] [notice] Child 2080: Child process is exiting
+[Thu Sep 04 14:31:32 2008] [notice] Parent: Child process exited successfully.
+[Thu Sep 04 14:31:41 2008] [notice] Apache/2.2.4 (Win32) PHP/5.2.4 configured -- resuming normal operations
+[Thu Sep 04 14:31:41 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Thu Sep 04 14:31:41 2008] [notice] Parent: Created child process 2832
+Warning: DocumentRoot [D:/DedeAMPZ/WebRoot/test.com/WebRoot] does not exist
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.102 for ServerName
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Thu Sep 04 14:31:41 2008] [notice] Child 2832: Child process is running
+[Thu Sep 04 14:31:41 2008] [notice] Child 2832: Acquired the start mutex.
+[Thu Sep 04 14:31:41 2008] [notice] Child 2832: Starting 250 worker threads.
+[Thu Sep 04 14:31:41 2008] [notice] Child 2832: Starting thread to listen on port 80.
+[Thu Sep 04 14:32:36 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Sep 04 14:32:36 2008] [notice] Child 2832: Exit event signaled. Child process is ending.
+[Thu Sep 04 14:32:37 2008] [notice] Child 2832: Released the start mutex
+[Thu Sep 04 14:32:38 2008] [notice] Child 2832: Waiting for 250 worker threads to exit.
+[Thu Sep 04 14:32:38 2008] [notice] Child 2832: All worker threads have exited.
+[Thu Sep 04 14:32:38 2008] [notice] Child 2832: Child process is exiting
+[Thu Sep 04 14:32:38 2008] [notice] Parent: Child process exited successfully.
+[Thu Sep 04 14:44:13 2008] [notice] Apache/2.2.4 (Win32) PHP/5.2.4 configured -- resuming normal operations
+[Thu Sep 04 14:44:13 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Thu Sep 04 14:44:13 2008] [notice] Parent: Created child process 2184
+Warning: DocumentRoot [D:/DedeAMPZ/WebRoot/test.com/WebRoot] does not exist
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.102 for ServerName
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Thu Sep 04 14:44:13 2008] [notice] Child 2184: Child process is running
+[Thu Sep 04 14:44:13 2008] [notice] Child 2184: Acquired the start mutex.
+[Thu Sep 04 14:44:13 2008] [notice] Child 2184: Starting 250 worker threads.
+[Thu Sep 04 14:44:13 2008] [notice] Child 2184: Starting thread to listen on port 80.
+[Thu Sep 04 14:45:14 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Sep 04 14:45:14 2008] [notice] Child 2184: Exit event signaled. Child process is ending.
+[Thu Sep 04 14:45:15 2008] [notice] Child 2184: Released the start mutex
+[Thu Sep 04 14:45:16 2008] [notice] Child 2184: Waiting for 250 worker threads to exit.
+[Thu Sep 04 14:45:16 2008] [notice] Child 2184: All worker threads have exited.
+[Thu Sep 04 14:45:16 2008] [notice] Child 2184: Child process is exiting
+[Thu Sep 04 14:45:16 2008] [notice] Parent: Child process exited successfully.
+[Thu Sep 04 14:45:26 2008] [notice] Apache/2.2.4 (Win32) PHP/5.2.4 configured -- resuming normal operations
+[Thu Sep 04 14:45:26 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Thu Sep 04 14:45:26 2008] [notice] Parent: Created child process 3432
+Warning: DocumentRoot [D:/DedeAMPZ/WebRoot/test.com/WebRoot] does not exist
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.102 for ServerName
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Thu Sep 04 14:45:26 2008] [notice] Child 3432: Child process is running
+[Thu Sep 04 14:45:26 2008] [notice] Child 3432: Acquired the start mutex.
+[Thu Sep 04 14:45:26 2008] [notice] Child 3432: Starting 250 worker threads.
+[Thu Sep 04 14:45:26 2008] [notice] Child 3432: Starting thread to listen on port 80.
+[Thu Sep 04 14:49:11 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Sep 04 14:49:11 2008] [notice] Child 3432: Exit event signaled. Child process is ending.
+[Thu Sep 04 14:49:12 2008] [notice] Child 3432: Released the start mutex
+[Thu Sep 04 14:49:13 2008] [notice] Child 3432: Waiting for 250 worker threads to exit.
+[Thu Sep 04 14:49:13 2008] [notice] Child 3432: All worker threads have exited.
+[Thu Sep 04 14:49:13 2008] [notice] Child 3432: Child process is exiting
+[Thu Sep 04 14:49:13 2008] [notice] Parent: Child process exited successfully.
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Thu Sep 04 14:49:25 2008] [notice] Apache/2.2.4 (Win32) PHP/5.2.4 configured -- resuming normal operations
+[Thu Sep 04 14:49:25 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Thu Sep 04 14:49:25 2008] [notice] Parent: Created child process 2328
+Warning: DocumentRoot [D:/DedeAMPZ/WebRoot/test.com/WebRoot] does not exist
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.102 for ServerName
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Thu Sep 04 14:49:25 2008] [notice] Child 2328: Child process is running
+[Thu Sep 04 14:49:25 2008] [notice] Child 2328: Acquired the start mutex.
+[Thu Sep 04 14:49:25 2008] [notice] Child 2328: Starting 250 worker threads.
+[Thu Sep 04 14:49:25 2008] [notice] Child 2328: Starting thread to listen on port 80.
+[Thu Sep 04 14:50:01 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Sep 04 14:50:01 2008] [notice] Child 2328: Exit event signaled. Child process is ending.
+[Thu Sep 04 14:50:02 2008] [notice] Child 2328: Released the start mutex
+[Thu Sep 04 14:50:03 2008] [notice] Child 2328: Waiting for 250 worker threads to exit.
+[Thu Sep 04 14:50:04 2008] [notice] Child 2328: All worker threads have exited.
+[Thu Sep 04 14:50:04 2008] [notice] Child 2328: Child process is exiting
+[Thu Sep 04 14:50:04 2008] [notice] Parent: Child process exited successfully.
+[Thu Sep 04 14:50:13 2008] [notice] Apache/2.2.4 (Win32) PHP/5.2.4 configured -- resuming normal operations
+[Thu Sep 04 14:50:13 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Thu Sep 04 14:50:13 2008] [notice] Parent: Created child process 348
+Warning: DocumentRoot [D:/DedeAMPZ/WebRoot/test.com/WebRoot] does not exist
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.102 for ServerName
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Thu Sep 04 14:50:13 2008] [notice] Child 348: Child process is running
+[Thu Sep 04 14:50:13 2008] [notice] Child 348: Acquired the start mutex.
+[Thu Sep 04 14:50:13 2008] [notice] Child 348: Starting 250 worker threads.
+[Thu Sep 04 14:50:13 2008] [notice] Child 348: Starting thread to listen on port 80.
+[Thu Sep 04 14:59:45 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Sep 04 14:59:45 2008] [notice] Child 348: Exit event signaled. Child process is ending.
+[Thu Sep 04 14:59:46 2008] [notice] Child 348: Released the start mutex
+[Thu Sep 04 14:59:47 2008] [notice] Child 348: Waiting for 250 worker threads to exit.
+[Thu Sep 04 14:59:47 2008] [notice] Child 348: All worker threads have exited.
+[Thu Sep 04 14:59:47 2008] [notice] Child 348: Child process is exiting
+[Thu Sep 04 14:59:47 2008] [notice] Parent: Child process exited successfully.
+[Thu Sep 04 14:59:47 2008] [notice] Apache/2.2.4 (Win32) PHP/5.2.4 configured -- resuming normal operations
+[Thu Sep 04 14:59:47 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Thu Sep 04 14:59:47 2008] [notice] Parent: Created child process 3744
+Warning: DocumentRoot [D:/DedeAMPZ/WebRoot/test.com/WebRoot] does not exist
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.102 for ServerName
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Thu Sep 04 14:59:48 2008] [notice] Child 3744: Child process is running
+[Thu Sep 04 14:59:48 2008] [notice] Child 3744: Acquired the start mutex.
+[Thu Sep 04 14:59:48 2008] [notice] Child 3744: Starting 250 worker threads.
+[Thu Sep 04 14:59:48 2008] [notice] Child 3744: Starting thread to listen on port 80.
+[Thu Sep 04 15:00:27 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Sep 04 15:00:27 2008] [notice] Child 3744: Exit event signaled. Child process is ending.
+[Thu Sep 04 15:00:28 2008] [notice] Child 3744: Released the start mutex
+[Thu Sep 04 15:00:29 2008] [notice] Child 3744: Waiting for 250 worker threads to exit.
+[Thu Sep 04 15:00:29 2008] [notice] Child 3744: All worker threads have exited.
+[Thu Sep 04 15:00:29 2008] [notice] Child 3744: Child process is exiting
+[Thu Sep 04 15:00:29 2008] [notice] Parent: Child process exited successfully.
+[Thu Sep 04 15:00:30 2008] [notice] Apache/2.2.4 (Win32) PHP/5.2.4 configured -- resuming normal operations
+[Thu Sep 04 15:00:30 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Thu Sep 04 15:00:30 2008] [notice] Parent: Created child process 2580
+Warning: DocumentRoot [D:/DedeAMPZ/WebRoot/test.com/WebRoot] does not exist
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.102 for ServerName
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Thu Sep 04 15:00:30 2008] [notice] Child 2580: Child process is running
+[Thu Sep 04 15:00:30 2008] [notice] Child 2580: Acquired the start mutex.
+[Thu Sep 04 15:00:30 2008] [notice] Child 2580: Starting 250 worker threads.
+[Thu Sep 04 15:00:30 2008] [notice] Child 2580: Starting thread to listen on port 80.
+[Thu Sep 04 15:02:38 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Sep 04 15:02:38 2008] [notice] Child 2580: Exit event signaled. Child process is ending.
+[Thu Sep 04 15:02:39 2008] [notice] Child 2580: Released the start mutex
+[Thu Sep 04 15:02:40 2008] [notice] Child 2580: Waiting for 250 worker threads to exit.
+[Thu Sep 04 15:02:40 2008] [notice] Child 2580: All worker threads have exited.
+[Thu Sep 04 15:02:40 2008] [notice] Child 2580: Child process is exiting
+[Thu Sep 04 15:02:40 2008] [notice] Parent: Child process exited successfully.
+[Thu Sep 04 15:02:50 2008] [notice] Apache/2.2.4 (Win32) PHP/5.2.4 configured -- resuming normal operations
+[Thu Sep 04 15:02:50 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Thu Sep 04 15:02:50 2008] [notice] Parent: Created child process 1288
+Warning: DocumentRoot [D:/DedeAMPZ/WebRoot/test.com/WebRoot] does not exist
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.102 for ServerName
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Thu Sep 04 15:02:50 2008] [notice] Child 1288: Child process is running
+[Thu Sep 04 15:02:50 2008] [notice] Child 1288: Acquired the start mutex.
+[Thu Sep 04 15:02:50 2008] [notice] Child 1288: Starting 250 worker threads.
+[Thu Sep 04 15:02:50 2008] [notice] Child 1288: Starting thread to listen on port 80.
+[Thu Sep 04 15:03:03 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Sep 04 15:03:03 2008] [notice] Child 1288: Exit event signaled. Child process is ending.
+[Thu Sep 04 15:03:04 2008] [notice] Child 1288: Released the start mutex
+[Thu Sep 04 15:03:05 2008] [notice] Child 1288: Waiting for 250 worker threads to exit.
+[Thu Sep 04 15:03:05 2008] [notice] Child 1288: All worker threads have exited.
+[Thu Sep 04 15:03:05 2008] [notice] Child 1288: Child process is exiting
+[Thu Sep 04 15:03:05 2008] [notice] Parent: Child process exited successfully.
+[Thu Sep 04 15:03:15 2008] [notice] Apache/2.2.4 (Win32) PHP/5.2.4 configured -- resuming normal operations
+[Thu Sep 04 15:03:15 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Thu Sep 04 15:03:15 2008] [notice] Parent: Created child process 3072
+Warning: DocumentRoot [D:/DedeAMPZ/WebRoot/test.com/WebRoot] does not exist
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.102 for ServerName
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Thu Sep 04 15:03:15 2008] [notice] Child 3072: Child process is running
+[Thu Sep 04 15:03:15 2008] [notice] Child 3072: Acquired the start mutex.
+[Thu Sep 04 15:03:15 2008] [notice] Child 3072: Starting 250 worker threads.
+[Thu Sep 04 15:03:15 2008] [notice] Child 3072: Starting thread to listen on port 80.
+[Thu Sep 04 15:04:03 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Sep 04 15:04:03 2008] [notice] Child 3072: Exit event signaled. Child process is ending.
+[Thu Sep 04 15:04:04 2008] [notice] Child 3072: Released the start mutex
+[Thu Sep 04 15:04:05 2008] [notice] Child 3072: Waiting for 250 worker threads to exit.
+[Thu Sep 04 15:04:05 2008] [notice] Child 3072: All worker threads have exited.
+[Thu Sep 04 15:04:05 2008] [notice] Child 3072: Child process is exiting
+[Thu Sep 04 15:04:05 2008] [notice] Parent: Child process exited successfully.
+[Thu Sep 04 15:08:56 2008] [notice] Apache/2.2.4 (Win32) PHP/5.2.4 configured -- resuming normal operations
+[Thu Sep 04 15:08:56 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Thu Sep 04 15:08:56 2008] [notice] Parent: Created child process 3532
+Warning: DocumentRoot [D:/DedeAMPZ/WebRoot/test.com/WebRoot] does not exist
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.102 for ServerName
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Thu Sep 04 15:08:56 2008] [notice] Child 3532: Child process is running
+[Thu Sep 04 15:08:56 2008] [notice] Child 3532: Acquired the start mutex.
+[Thu Sep 04 15:08:56 2008] [notice] Child 3532: Starting 250 worker threads.
+[Thu Sep 04 15:08:56 2008] [notice] Child 3532: Starting thread to listen on port 80.
+[Thu Sep 04 15:11:29 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Sep 04 15:11:29 2008] [notice] Child 3532: Exit event signaled. Child process is ending.
+[Thu Sep 04 15:11:30 2008] [notice] Child 3532: Released the start mutex
+[Thu Sep 04 15:11:31 2008] [notice] Child 3532: Waiting for 250 worker threads to exit.
+[Thu Sep 04 15:11:31 2008] [notice] Child 3532: All worker threads have exited.
+[Thu Sep 04 15:11:31 2008] [notice] Child 3532: Child process is exiting
+[Thu Sep 04 15:11:31 2008] [notice] Parent: Child process exited successfully.
+[Thu Sep 04 15:11:41 2008] [notice] Apache/2.2.4 (Win32) PHP/4.4.4 configured -- resuming normal operations
+[Thu Sep 04 15:11:41 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Thu Sep 04 15:11:41 2008] [notice] Parent: Created child process 3708
+Warning: DocumentRoot [D:/DedeAMPZ/WebRoot/test.com/WebRoot] does not exist
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.102 for ServerName
+PHP Warning:  Unknown(): Unable to load dynamic library 'D:/DedeAMPZ/Program/PHP4\\php_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Thu Sep 04 15:11:42 2008] [notice] Child 3708: Child process is running
+[Thu Sep 04 15:11:42 2008] [notice] Child 3708: Acquired the start mutex.
+[Thu Sep 04 15:11:42 2008] [notice] Child 3708: Starting 250 worker threads.
+[Thu Sep 04 15:11:42 2008] [notice] Child 3708: Starting thread to listen on port 80.
+[Thu Sep 04 15:13:57 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Sep 04 15:13:57 2008] [notice] Child 3708: Exit event signaled. Child process is ending.
+[Thu Sep 04 15:13:58 2008] [notice] Child 3708: Released the start mutex
+[Thu Sep 04 15:13:59 2008] [notice] Child 3708: Waiting for 250 worker threads to exit.
+[Thu Sep 04 15:13:59 2008] [notice] Child 3708: All worker threads have exited.
+[Thu Sep 04 15:13:59 2008] [notice] Child 3708: Child process is exiting
+Failed loading D:/DedeAMPZ/Program/lib/ZendExtensionManager.dll
+[Thu Sep 04 15:13:59 2008] [notice] Parent: Child process exited successfully.
+[Thu Sep 04 15:14:08 2008] [notice] Apache/2.2.4 (Win32) PHP/5.2.4 configured -- resuming normal operations
+[Thu Sep 04 15:14:08 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Thu Sep 04 15:14:08 2008] [notice] Parent: Created child process 3836
+Warning: DocumentRoot [D:/DedeAMPZ/WebRoot/test.com/WebRoot] does not exist
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.102 for ServerName
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Thu Sep 04 15:14:08 2008] [notice] Child 3836: Child process is running
+[Thu Sep 04 15:14:08 2008] [notice] Child 3836: Acquired the start mutex.
+[Thu Sep 04 15:14:08 2008] [notice] Child 3836: Starting 250 worker threads.
+[Thu Sep 04 15:14:08 2008] [notice] Child 3836: Starting thread to listen on port 80.
+[Thu Sep 04 15:17:27 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Sep 04 15:17:27 2008] [notice] Child 3836: Exit event signaled. Child process is ending.
+[Thu Sep 04 15:17:28 2008] [notice] Child 3836: Released the start mutex
+[Thu Sep 04 15:17:29 2008] [notice] Child 3836: Waiting for 250 worker threads to exit.
+[Thu Sep 04 15:17:29 2008] [notice] Child 3836: All worker threads have exited.
+[Thu Sep 04 15:17:29 2008] [notice] Child 3836: Child process is exiting
+[Thu Sep 04 15:17:30 2008] [notice] Parent: Child process exited successfully.
+[Thu Sep 04 15:17:39 2008] [notice] Apache/2.2.4 (Win32) PHP/4.4.4 configured -- resuming normal operations
+[Thu Sep 04 15:17:39 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Thu Sep 04 15:17:39 2008] [notice] Parent: Created child process 3472
+Warning: DocumentRoot [D:/DedeAMPZ/WebRoot/test.com/WebRoot] does not exist
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.102 for ServerName
+PHP Warning:  Unknown(): Unable to load dynamic library 'D:/DedeAMPZ/Program/PHP4\\php_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Thu Sep 04 15:17:39 2008] [notice] Child 3472: Child process is running
+[Thu Sep 04 15:17:39 2008] [notice] Child 3472: Acquired the start mutex.
+[Thu Sep 04 15:17:39 2008] [notice] Child 3472: Starting 250 worker threads.
+[Thu Sep 04 15:17:39 2008] [notice] Child 3472: Starting thread to listen on port 80.
+[Thu Sep 04 15:18:08 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Sep 04 15:18:08 2008] [notice] Child 3472: Exit event signaled. Child process is ending.
+[Thu Sep 04 15:18:09 2008] [notice] Child 3472: Released the start mutex
+[Thu Sep 04 15:18:10 2008] [notice] Child 3472: Waiting for 250 worker threads to exit.
+[Thu Sep 04 15:18:10 2008] [notice] Child 3472: All worker threads have exited.
+[Thu Sep 04 15:18:10 2008] [notice] Child 3472: Child process is exiting
+Failed loading D:/DedeAMPZ/Program/lib/ZendExtensionManager.dll
+[Thu Sep 04 15:18:10 2008] [notice] Parent: Child process exited successfully.
+[Thu Sep 04 15:18:19 2008] [notice] Apache/2.2.4 (Win32) PHP/5.2.4 configured -- resuming normal operations
+[Thu Sep 04 15:18:19 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Thu Sep 04 15:18:19 2008] [notice] Parent: Created child process 1956
+Warning: DocumentRoot [D:/DedeAMPZ/WebRoot/test.com/WebRoot] does not exist
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.102 for ServerName
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Program/php5/ext\\php_pdo_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Thu Sep 04 15:18:19 2008] [notice] Child 1956: Child process is running
+[Thu Sep 04 15:18:19 2008] [notice] Child 1956: Acquired the start mutex.
+[Thu Sep 04 15:18:19 2008] [notice] Child 1956: Starting 250 worker threads.
+[Thu Sep 04 15:18:19 2008] [notice] Child 1956: Starting thread to listen on port 80.
+[Thu Sep 04 15:18:40 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Sep 04 15:18:40 2008] [notice] Child 1956: Exit event signaled. Child process is ending.
+[Thu Sep 04 15:18:41 2008] [notice] Child 1956: Released the start mutex
+[Thu Sep 04 15:18:42 2008] [notice] Child 1956: Waiting for 250 worker threads to exit.
+[Thu Sep 04 15:18:43 2008] [notice] Child 1956: All worker threads have exited.
+[Thu Sep 04 15:18:43 2008] [notice] Child 1956: Child process is exiting
+[Thu Sep 04 15:18:43 2008] [notice] Parent: Child process exited successfully.
+[Thu Sep 04 15:18:54 2008] [notice] Apache/2.2.4 (Win32) PHP/4.4.4 configured -- resuming normal operations
+[Thu Sep 04 15:18:54 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Thu Sep 04 15:18:54 2008] [notice] Parent: Created child process 2308
+Warning: DocumentRoot [D:/DedeAMPZ/WebRoot/test.com/WebRoot] does not exist
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.102 for ServerName
+PHP Warning:  Unknown(): Unable to load dynamic library 'D:/DedeAMPZ/Program/PHP4\\php_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Thu Sep 04 15:18:54 2008] [notice] Child 2308: Child process is running
+[Thu Sep 04 15:18:54 2008] [notice] Child 2308: Acquired the start mutex.
+[Thu Sep 04 15:18:54 2008] [notice] Child 2308: Starting 250 worker threads.
+[Thu Sep 04 15:18:54 2008] [notice] Child 2308: Starting thread to listen on port 80.
+[Thu Sep 04 15:37:05 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Sep 04 15:37:05 2008] [notice] Child 2308: Exit event signaled. Child process is ending.
+[Thu Sep 04 15:37:06 2008] [notice] Child 2308: Released the start mutex
+[Thu Sep 04 15:37:07 2008] [notice] Child 2308: Waiting for 250 worker threads to exit.
+[Thu Sep 04 15:37:07 2008] [notice] Child 2308: All worker threads have exited.
+[Thu Sep 04 15:37:07 2008] [notice] Child 2308: Child process is exiting
+Failed loading D:/DedeAMPZ/Program/lib/ZendExtensionManager.dll
+[Thu Sep 04 15:37:07 2008] [notice] Parent: Child process exited successfully.
+[Thu Sep 04 16:04:58 2008] [notice] Apache/2.2.4 (Win32) PHP/5.2.4 configured -- resuming normal operations
+[Thu Sep 04 16:04:58 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Thu Sep 04 16:04:58 2008] [notice] Parent: Created child process 2388
+Warning: DocumentRoot [D:/DedeAMPZ/Public/DedeAMPZ/WebRoot/test.com/WebRoot] does not exist
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.102 for ServerName
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Public/DedeAMPZ/Program/php5/ext\\php_pdo_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Thu Sep 04 16:04:58 2008] [notice] Child 2388: Child process is running
+[Thu Sep 04 16:04:58 2008] [notice] Child 2388: Acquired the start mutex.
+[Thu Sep 04 16:04:58 2008] [notice] Child 2388: Starting 250 worker threads.
+[Thu Sep 04 16:04:58 2008] [notice] Child 2388: Starting thread to listen on port 80.
+[Thu Sep 04 16:06:11 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Sep 04 16:06:11 2008] [notice] Child 2388: Exit event signaled. Child process is ending.
+[Thu Sep 04 16:06:12 2008] [notice] Child 2388: Released the start mutex
+[Thu Sep 04 16:06:13 2008] [notice] Child 2388: Waiting for 250 worker threads to exit.
+[Thu Sep 04 16:06:13 2008] [notice] Child 2388: All worker threads have exited.
+[Thu Sep 04 16:06:13 2008] [notice] Child 2388: Child process is exiting
+[Thu Sep 04 16:06:13 2008] [notice] Parent: Child process exited successfully.
+[Thu Sep 04 17:41:44 2008] [notice] Apache/2.2.4 (Win32) PHP/5.2.4 configured -- resuming normal operations
+[Thu Sep 04 17:41:44 2008] [notice] Server built: Jan  9 2007 23:17:20
+[Thu Sep 04 17:41:44 2008] [notice] Parent: Created child process 532
+Warning: DocumentRoot [D:/DedeAMPZ/Public/DedeAMPZ/WebRoot/test.com/WebRoot] does not exist
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.0.102 for ServerName
+PHP Warning:  PHP Startup: Unable to load dynamic library 'D:/DedeAMPZ/Public/DedeAMPZ/Program/php5/ext\\php_pdo_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Thu Sep 04 17:41:44 2008] [notice] Child 532: Child process is running
+[Thu Sep 04 17:41:44 2008] [notice] Child 532: Acquired the start mutex.
+[Thu Sep 04 17:41:44 2008] [notice] Child 532: Starting 250 worker threads.
+[Thu Sep 04 17:41:44 2008] [notice] Child 532: Starting thread to listen on port 80.
+[Thu Sep 04 17:42:27 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Sep 04 17:42:27 2008] [notice] Child 532: Exit event signaled. Child process is ending.
+[Thu Sep 04 17:42:28 2008] [notice] Child 532: Released the start mutex
+[Thu Sep 04 17:42:29 2008] [notice] Child 532: Waiting for 250 worker threads to exit.
+[Thu Sep 04 17:42:29 2008] [notice] Child 532: All worker threads have exited.
+[Thu Sep 04 17:42:29 2008] [notice] Child 532: Child process is exiting
+[Thu Sep 04 17:42:29 2008] [notice] Parent: Child process exited successfully.
+[Thu Oct 15 14:20:30 2015] [notice] Apache/2.2.4 (Win32) PHP/5.2.4 configured -- resuming normal operations
+[Thu Oct 15 14:20:30 2015] [notice] Server built: Jan  9 2007 23:17:20
+[Thu Oct 15 14:20:30 2015] [notice] Parent: Created child process 7124
+Warning: DocumentRoot [F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/test.com/WebRoot] does not exist
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 172.19.38.1 for ServerName
+PHP Warning:  PHP Startup: Unable to load dynamic library 'F:/Dedecms/APMPZ/DedeAMPZ/Program/php5/ext\\php_pdo_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Thu Oct 15 14:20:30 2015] [notice] Child 7124: Child process is running
+[Thu Oct 15 14:20:30 2015] [notice] Child 7124: Acquired the start mutex.
+[Thu Oct 15 14:20:30 2015] [notice] Child 7124: Starting 250 worker threads.
+[Thu Oct 15 14:20:30 2015] [notice] Child 7124: Starting thread to listen on port 80.
+[Tue Oct 20 09:19:35 2015] [notice] Apache/2.2.4 (Win32) PHP/5.2.4 configured -- resuming normal operations
+[Tue Oct 20 09:19:35 2015] [notice] Server built: Jan  9 2007 23:17:20
+[Tue Oct 20 09:19:35 2015] [notice] Parent: Created child process 2724
+Warning: DocumentRoot [F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/test.com/WebRoot] does not exist
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.181 for ServerName
+PHP Warning:  PHP Startup: Unable to load dynamic library 'F:/Dedecms/APMPZ/DedeAMPZ/Program/php5/ext\\php_pdo_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Tue Oct 20 09:19:35 2015] [notice] Child 2724: Child process is running
+[Tue Oct 20 09:19:35 2015] [notice] Child 2724: Acquired the start mutex.
+[Tue Oct 20 09:19:35 2015] [notice] Child 2724: Starting 250 worker threads.
+[Tue Oct 20 09:19:35 2015] [notice] Child 2724: Starting thread to listen on port 80.
+[Tue Oct 20 11:55:45 2015] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Tue Oct 20 11:55:45 2015] [notice] Child 2724: Exit event signaled. Child process is ending.
+[Tue Oct 20 11:55:46 2015] [notice] Child 2724: Released the start mutex
+[Tue Oct 20 11:55:47 2015] [notice] Child 2724: Waiting for 250 worker threads to exit.
+[Tue Oct 20 11:55:47 2015] [notice] Child 2724: All worker threads have exited.
+[Tue Oct 20 11:55:47 2015] [notice] Child 2724: Child process is exiting
+[Tue Oct 20 11:55:47 2015] [notice] Parent: Child process exited successfully.
+Error in my_thread_global_end(): 1 threads didn't exit
+[Tue Oct 20 14:08:19 2015] [notice] Apache/2.2.4 (Win32) PHP/5.2.4 configured -- resuming normal operations
+[Tue Oct 20 14:08:19 2015] [notice] Server built: Jan  9 2007 23:17:20
+[Tue Oct 20 14:08:19 2015] [notice] Parent: Created child process 2504
+Warning: DocumentRoot [F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/test.com/WebRoot] does not exist
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.181 for ServerName
+PHP Warning:  PHP Startup: Unable to load dynamic library 'F:/Dedecms/APMPZ/DedeAMPZ/Program/php5/ext\\php_pdo_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Tue Oct 20 14:08:19 2015] [notice] Child 2504: Child process is running
+[Tue Oct 20 14:08:19 2015] [notice] Child 2504: Acquired the start mutex.
+[Tue Oct 20 14:08:19 2015] [notice] Child 2504: Starting 250 worker threads.
+[Tue Oct 20 14:08:19 2015] [notice] Child 2504: Starting thread to listen on port 80.
+[Wed Oct 21 09:16:03 2015] [notice] Apache/2.2.4 (Win32) PHP/5.2.4 configured -- resuming normal operations
+[Wed Oct 21 09:16:03 2015] [notice] Server built: Jan  9 2007 23:17:20
+[Wed Oct 21 09:16:03 2015] [notice] Parent: Created child process 2172
+Warning: DocumentRoot [F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/test.com/WebRoot] does not exist
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.181 for ServerName
+PHP Warning:  PHP Startup: Unable to load dynamic library 'F:/Dedecms/APMPZ/DedeAMPZ/Program/php5/ext\\php_pdo_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Wed Oct 21 09:16:03 2015] [notice] Child 2172: Child process is running
+[Wed Oct 21 09:16:03 2015] [notice] Child 2172: Acquired the start mutex.
+[Wed Oct 21 09:16:03 2015] [notice] Child 2172: Starting 250 worker threads.
+[Wed Oct 21 09:16:03 2015] [notice] Child 2172: Starting thread to listen on port 80.
+[Thu Oct 22 09:19:28 2015] [notice] Apache/2.2.4 (Win32) PHP/5.2.4 configured -- resuming normal operations
+[Thu Oct 22 09:19:28 2015] [notice] Server built: Jan  9 2007 23:17:20
+[Thu Oct 22 09:19:28 2015] [notice] Parent: Created child process 2640
+Warning: DocumentRoot [F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/test.com/WebRoot] does not exist
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.181 for ServerName
+PHP Warning:  PHP Startup: Unable to load dynamic library 'F:/Dedecms/APMPZ/DedeAMPZ/Program/php5/ext\\php_pdo_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Thu Oct 22 09:19:28 2015] [notice] Child 2640: Child process is running
+[Thu Oct 22 09:19:28 2015] [notice] Child 2640: Acquired the start mutex.
+[Thu Oct 22 09:19:28 2015] [notice] Child 2640: Starting 250 worker threads.
+[Thu Oct 22 09:19:28 2015] [notice] Child 2640: Starting thread to listen on port 80.
+[Thu Oct 22 10:54:30 2015] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Oct 22 10:54:30 2015] [notice] Child 2640: Exit event signaled. Child process is ending.
+[Thu Oct 22 10:54:31 2015] [notice] Child 2640: Released the start mutex
+[Thu Oct 22 10:54:32 2015] [notice] Child 2640: Waiting for 250 worker threads to exit.
+[Thu Oct 22 10:54:32 2015] [notice] Child 2640: All worker threads have exited.
+[Thu Oct 22 10:54:32 2015] [notice] Child 2640: Child process is exiting
+[Thu Oct 22 10:54:32 2015] [notice] Parent: Child process exited successfully.
+Error in my_thread_global_end(): 1 threads didn't exit
+[Thu Oct 22 10:54:48 2015] [notice] Apache/2.2.4 (Win32) PHP/5.2.4 configured -- resuming normal operations
+[Thu Oct 22 10:54:48 2015] [notice] Server built: Jan  9 2007 23:17:20
+[Thu Oct 22 10:54:48 2015] [notice] Parent: Created child process 8164
+Warning: DocumentRoot [F:/Dedecms/APMPZ/DedeAMPZ/WebRoot/test.com/WebRoot] does not exist
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 192.168.1.181 for ServerName
+PHP Warning:  PHP Startup: Unable to load dynamic library 'F:/Dedecms/APMPZ/DedeAMPZ/Program/php5/ext\\php_pdo_mssql.dll' - \xd5\xd2\xb2\xbb\xb5\xbd\xd6\xb8\xb6\xa8\xb5\xc4\xc4\xa3\xbf\xe9\xa1\xa3\r\n in Unknown on line 0
+[Thu Oct 22 10:54:48 2015] [notice] Child 8164: Child process is running
+[Thu Oct 22 10:54:48 2015] [notice] Child 8164: Acquired the start mutex.
+[Thu Oct 22 10:54:48 2015] [notice] Child 8164: Starting 250 worker threads.
+[Thu Oct 22 10:54:48 2015] [notice] Child 8164: Starting thread to listen on port 80.
